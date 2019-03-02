@@ -1,3 +1,4 @@
+<section id="ourvalues" class="cd-section">
 <h1 align = "center" class = "animate-box"><?php echo $lang['judulvalues'];?></h1><br/><Br/>
 <div class="row">
     <div class = "col-md-1"></div>
@@ -59,3 +60,4 @@
     <div class = "col-md-1"></div>
    
 </div>
+    </section>

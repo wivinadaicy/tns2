@@ -9,3 +9,4 @@
         <p style = "text-align: justify; text-align-last:left"><?php echo $lang['ttg'];?></p>
     </div>
 </div>
+</section>

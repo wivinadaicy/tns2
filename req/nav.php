@@ -31,10 +31,10 @@
                             <ul>
                                 <li class="language-menu" data-suggester="langmenu.suggester.label">
                                     <ul>                                 
-                                        <li><a href="/" title="Display the page in french" data-lang="FR">EN</a></li>
-                                        <li class="active"><span>ID</span></li>
-                                        <li><a href="/">EN</a></li>
-                                        <li><a href="/">EN</a></li>
+                                        <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=id'"><img src='assets/img/icon/indonesia.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                                        <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=en'"><img src='assets/img/icon/us.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                                        <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=gr'"><img src='assets/img/icon/germany.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                                        <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                                     </ul>
                                 </li>
                                 <li><a href="/en/contacts"><?php echo $lang['nav6'];?></a></li>
@@ -51,16 +51,16 @@
                     <div id="colorlib-logo"><a href="index.php">T&amp;S INTERNATIONAL</a></div>
                 </div>
                 <div class="col-md-9 text-right menu-1">
-                    <ul>
+                    <ul><!--
                         <li class="has-dropdown">
                             <a href="#"><img src='assets/img/icon/<?php echo $_SESSION['lang_img'];?>' style = 'width:20px; margin-right: 10px'></a>
                             <ul class="dropdown">
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=id'"><img src='assets/img/icon/indonesia.png' style = 'width:20px; margin-right: 10px'>ID</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=en'"><img src='assets/img/icon/us.png' style = 'width:20px; margin-right: 10px'>EN</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=gr'"><img src='assets/img/icon/germany.png' style = 'width:20px; margin-right: 10px'>DE</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 10px'>CH</li>
+                                <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=id'"><img src='assets/img/icon/indonesia.png' style = 'width:20px; margin-right: 10px; '>ID</li>
+                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=en'"><img src='assets/img/icon/us.png' style = 'width:20px; margin-right: 10px; '>EN</li>
+                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=gr'"><img src='assets/img/icon/germany.png' style = 'width:20px; margin-right: 10px; '>DE</li>
+                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 10px; '>CH</li>
                             </ul>
-                        </li>
+                        </li>-->
                         <li><a href="index.php"><?php echo $lang['nav1'];?> </a></li>
                         <li class="has-dropdown">
                             <a href="discover.php"><?php echo $lang['nav2'];?></a>

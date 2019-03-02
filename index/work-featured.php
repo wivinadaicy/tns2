@@ -1,4 +1,4 @@
-<div class="colorlib-work-featured colorlib-bg-white">
+<div class="colorlib-work-featured colorlib-bg-white cd-section" id="visimisi">
         <div class="row mobile-wrap">
             <div class="container">
                 <?php include('index/blog.php');?>

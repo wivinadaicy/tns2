@@ -18,3 +18,8 @@
 	<script src="assets/js/jquery.countTo.js"></script>
 	<!-- Main -->
 	<script src="assets/js/main.js"></script>
+
+<script src="assets/js/jquery-2.1.1"></script>
+<script src="assets/js/mainx1"></script>
+<script src="assets/js/mainx2"></script>
+<script src="assets/js/main-dot.js"></script>
