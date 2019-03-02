@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .colorlib-nav {
   margin: 0;
   position: absolute;
-  top: 0;
+  top: 15px;
   left: 0;
   right: 0;
   z-index: 9;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 0; }
   @media screen and (max-width: 768px) {
     .video-hero {
-      heifght: inherit;
+      height: inherit;
       padding: 3em 0; } }
   .video-hero .overlay {
     position: absolute;
