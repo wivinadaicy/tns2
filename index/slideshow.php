@@ -1,4 +1,4 @@
-<div class="colorlib-featured cd-section" id="photos" >
+<div class="colorlib-featured cd-section" id="photos">
     <div class="row animate-box">
         <div class="featured-wrap">
             <div class="owl-carousel">

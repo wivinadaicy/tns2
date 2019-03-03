@@ -3,12 +3,12 @@
         <div class="row row-pb-md">
             <div class = "col-lg-1"></div>
             <div class="col-md-7 colorlib-widget">
-                <h4><?php echo $lang['judulttg'];?></h4>
+                <h4 style = "color:#008755"><?php echo $lang['judulttg'];?></h4>
                 <p style = "text-align:justify; text-align-last:left"><?php echo $lang['visi'];?></p>
                 
             </div>
             <div class="col-md-3 colorlib-widget">
-                <h4><?php echo $lang['information'];?></h4>
+                <h4 style = "color:#008755"><?php echo $lang['information'];?></h4>
                 <ul class="colorlib-footer-links">
                     <li><a href="index.php"><?php echo $lang['nav1'];?></a></li>
                     <li class="has-dropdown"><a href="discover.php"><?php echo $lang['nav2'];?></a></li>

@@ -1,4 +1,4 @@
-<div style="position:relative; height:40px; background-color: green"><div class="brand-bar">
+<div style="position:relative; height:40px; background-color: green; margin-bottom:0px"><div class="brand-bar">
             <div class="container">
                 <div class="row">
                     <div class="brand-social col-md-5 col-sm-3">
@@ -43,35 +43,32 @@
                 </div>
             </div>
         </div></div>
-<nav class="colorlib-nav" role="navigation">
+<nav class="colorlib-nav" role="navigation" style = "background-color:white; color:#007348; position:relative; margin-top:0px">
     <div class="top-menu">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <div id="colorlib-logo"><a href="index.php">T&amp;S INTERNATIONAL</a></div>
+                    <div id="colorlib-logo" style = "margin-top:0px; margin-bottom:0px; position:relative; top:0px"><a href = "index.php"><img src = "assets/img/logo.png" style = "height:50px;padding-top:0px; margin-top:0px; position:relative; top:0px;"></a></div>
                 </div>
                 <div class="col-md-9 text-right menu-1">
-                    <ul><!--
-                        <li class="has-dropdown">
-                            <a href="#"><img src='assets/img/icon/<?php echo $_SESSION['lang_img'];?>' style = 'width:20px; margin-right: 10px'></a>
+                    <ul>
+                        <li class = "has-dropdown">
+                            <a href="index.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav1'];?> </a>
                             <ul class="dropdown">
-                                <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=id'"><img src='assets/img/icon/indonesia.png' style = 'width:20px; margin-right: 10px; '>ID</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=en'"><img src='assets/img/icon/us.png' style = 'width:20px; margin-right: 10px; '>EN</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=gr'"><img src='assets/img/icon/germany.png' style = 'width:20px; margin-right: 10px; '>DE</li>
-                                <li style = "cursor:pointer" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 10px; '>CH</li>
-                            </ul>
-                        </li>-->
-                        <li><a href="index.php"><?php echo $lang['nav1'];?> </a></li>
-                        <li class="has-dropdown">
-                            <a href="discover.php"><?php echo $lang['nav2'];?></a>
-                            <ul class="dropdown">
-                                <li><a href="property.php"><?php echo $lang['nav2a'];?></a></li>
-                                <li><a href="foundation.php"><?php echo $lang['nav2b'];?></a></li>
+                                <li><a href="vision.php" style = "color:#007348; font-weight:Bolder">Vision &amp; Mission</a></li>
+                                <li><a href="values.php" style = "color:#007348; font-weight:Bolder">Our Values</a></li>
                             </ul>
                         </li>
-                        <li><a href="difference.php"><?php echo $lang['nav3'];?></a></li>
-                        <li><a href="about.php"><?php echo $lang['nav4'];?></a></li>
-                        <li><a href="career.php"><?php echo $lang['nav5'];?></a></li>
+                        <li class="has-dropdown">
+                            <a href="discover.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2'];?></a>
+                            <ul class="dropdown">
+                                <li><a href="property.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2a'];?></a></li>
+                                <li><a href="foundation.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2b'];?></a></li>
+                            </ul>
+                        </li>
+                        <li><a href="difference.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav3'];?></a></li>
+                        <li><a href="about.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav4'];?></a></li>
+                        <li><a href="career.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav5'];?></a></li>
 
                     </ul>
                 </div>

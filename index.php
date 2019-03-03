@@ -3,14 +3,12 @@
 <?php include('req/head.php'); ?>
 <?php include('req/nav.php'); ?>
 <!-- content -->
-<?php include('index/dot-nav.php'); ?>
-<?php include('index/header.php');?>
+<?php //include('index/dot-nav.php'); ?>
 <?php include('index/slideshow.php');?>
+<?php include('index/header.php');?>
 <?php include('req/content-open.php');?>
 
 
-<?php include('index/work-featured.php')?>
-<?php include('index/blog2.php');?>
 
 <?php include('index/about.php');?>
 

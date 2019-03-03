@@ -1,11 +1,11 @@
 <section id="ourvalues" class="cd-section">
 <h1 align = "center" class = "animate-box"><?php echo $lang['judulvalues'];?></h1><br/><Br/>
-<div class="row">
+<div class="row" style = "text-align:justify">
     <div class = "col-md-1"></div>
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-browser"></i>
+                <i class="icon-checkmark2"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulexcellence'];?></h3>
@@ -16,7 +16,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-download"></i>
+                <i class="icon-stats-dots"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulenthusiasm'];?></h3>
@@ -27,7 +27,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-layers"></i>
+                <i class="icon-stack"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulteamwork'];?></h3>
@@ -38,7 +38,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-video"></i>
+                <i class="icon-lock2"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulintegrity'];?></h3>
@@ -49,7 +49,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-video"></i>
+                <i class="icon-user-check"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulsatisfaction'];?></h3>
