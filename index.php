@@ -1,9 +1,10 @@
+<?php session_start(); $_SESSION["page"] = "glance";?>
 <?php include('configlang.php'); ?>
 
 <?php include('req/head.php'); ?>
 <?php include('req/nav.php'); ?>
 <!-- content -->
-<?php //include('index/dot-nav.php'); ?>
+<?php include('index/dot-nav.php'); ?>
 <?php include('index/slideshow.php');?>
 <?php include('index/header.php');?>
 <?php include('req/content-open.php');?>

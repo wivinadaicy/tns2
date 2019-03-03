@@ -1,5 +1,8 @@
-<div class="colorlib-intro" style = "margin-top:50px">
-    <div class="container">
+<div class="colorlib-intro" style = "overflow:hidden;background-image: url(assets/img/mobile-2.jpg); filter:alpha(opacity=100); background-size:cover; height:100%">
+    <div class="row mobile-wrap" style = "Background-color:White; position:Absolute; height:100%; width:100%; padding:0px; margin:0px; margin-top:0px; opacity:0.9;overflow:hidden;">
+        <div class="container"></div>
+    </div>
+    <div class="container" style = "padding-top:100px">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
                 <h2><?php echo $lang['tnsfondasi'];?></h2>

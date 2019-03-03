@@ -1,4 +1,4 @@
-<?php session_start();
+<?php  error_reporting(0);
 
 if(!isset($_SESSION['lang'])){
     $_SESSION['lang'] = "en"; 

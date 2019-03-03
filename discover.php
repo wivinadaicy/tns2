@@ -1,3 +1,4 @@
+<?php session_start(); $_SESSION["page"] = "discover";?>
 <?php include('configlang.php'); ?>
 
 <?php include('req/head.php'); ?>

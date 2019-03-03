@@ -1706,9 +1706,9 @@ SIDE DOT NAV Main components
   background-color: rgba(62, 57, 71, 0);
 }
 .touch #cd-vertical-nav.open + .cd-nav-trigger span::before, .touch #cd-vertical-nav.open + .cd-nav-trigger span::after {
-  background-color: #3e3947;
+  background-color: none;
   height: 3px;
-  width: 20px;
+  width: 0px;
   border-radius: 0;
   left: -8px;
 }

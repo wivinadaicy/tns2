@@ -13,12 +13,6 @@
 				</a>
 			</li>
 			<li>
-				<a href="#visimisi" data-number="3">
-					<span class="cd-dot"></span>
-					<span class="cd-label">Vision &amp; Mision</span>
-				</a>
-			</li>
-			<li>
 				<a href="#about" data-number="4">
 					<span class="cd-dot"></span>
 					<span class="cd-label">About</span>

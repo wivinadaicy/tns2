@@ -8,21 +8,21 @@
         "nav4" => "Über uns",
         "nav5" => "Career",
         "nav6" => " Contact",
-        "judulbesar" => "T&S INTERNATIONAL Group",
-        "tagjudulbesar" => "Die T & S INTERNATIONAL-Gruppe und eine ihrer Tochtergesellschaften, T & S Property, die
+        "judulbesar" => "T&S INTERNATIONAL GROUP",
+        "tagjudulbesar" => "Die T & S INTERNATIONAL-GRUPPE und eine ihrer Tochtergesellschaften, T & S Property, die
 2013 gegründet wurde, sind heute einer der führenden Immobilienmakler in West-Jakarta. Im
 Zusammenhang mit der Transformation von Immobilien ist es wichtiger denn je, unsere Absicht zu
 bekräftigen, wofür wir stehen und was wir sein wollen.",
         "visimisi" => " Unsere Vision, unsere Mission",
         "judulvisimisi" => "Unsere Vision, unsere Mission und unsere Werte zielen darauf ab, unsere Entscheidungen und Handlungen zu inspirieren Indonesischer Immobilienmarkt für eine sich verändernde Welt. ",
         "judulvisi" => "Vision",
-        "visi" => "Die T & S INTERNATIONAL-Gruppe strebt danach, die gesetzte Benchmark unter Real Estate zu sein Broker mit globaler Reichweite, die eine langfristige Partnerschaft mit unseren Kunden bevorzugen, in Verbindung mit starken Verantwortlichkeiten sowie die Erhaltung der globalen Entwicklung. Wir möchten unsere Kunden, Mitarbeiter und die Gesellschaft positiv beeinflussen. Wir wollen für eine bessere Zukunft beitragen. Unsere Teams sind bestrebt, erstklassigen Service zu bieten Lösungen für unsere Kunden durch unsere Erfahrung. Wir bieten unseren Kollegen eine inspirierende und anregender Arbeitsplatz. Wir streben danach, die vertrauenswürdigsten Spieler der Branche zu sein Verankerung unserer Werte und Ethik im täglichen Verhalten. .",
+        "visi" => "Die T & S INTERNATIONAL-GRUPPE strebt danach, die gesetzte Benchmark unter Real Estate zu sein Broker mit globaler Reichweite, die eine langfristige Partnerschaft mit unseren Kunden bevorzugen, in Verbindung mit starken Verantwortlichkeiten sowie die Erhaltung der globalen Entwicklung. Wir möchten unsere Kunden, Mitarbeiter und die Gesellschaft positiv beeinflussen. Wir wollen für eine bessere Zukunft beitragen. Unsere Teams sind bestrebt, erstklassigen Service zu bieten Lösungen für unsere Kunden durch unsere Erfahrung. Wir bieten unseren Kollegen eine inspirierende und anregender Arbeitsplatz. Wir streben danach, die vertrauenswürdigsten Spieler der Branche zu sein Verankerung unserer Werte und Ethik im täglichen Verhalten. .",
         "judulmisi" => "Mission",
         "misi" => "Durch die Einhaltung höchster Professionalität bei gleichzeitiger Rentabilität zur Vorreiterin im
         Immobiliengeschäft zu werden, ist dies die erste Wahl für die Verbraucher. ",
         "judulttg" => "FIRMENGESCHICHTE",
         "ttg"=> "In Zeiten des Wirtschaftswachstums und der finanziellen Instabilität haben wir eine Führungsrolle
-unter Beweis gestellt. Seit Jahren unterstützt die T & S INTERNATIONAL-Gruppe ihre Kunden
+unter Beweis gestellt. Seit Jahren unterstützt die T & S INTERNATIONAL-GRUPPE ihre Kunden
 dabei, erstklassige Geschäfte zu tätigen. In dieser Zeit haben wir einen langfristigen Ansatz für
 Kundenlösungen verfolgt - sie haben jederzeit eine engagierte, innovative und konsistente
 Beratung und Ausführung.
@@ -37,7 +37,7 @@ dem Wunsch bestimmt, für heute und morgen das Richtige zu tun ",
         "judulenthusiasm" => "Begeisterung",
         "enthusiasm" => "Machen Sie sich die Begeisterung zu eigen, um die hohe Leistung unserer Agenten hervorzuheben ",
         "judulteamwork" => "Teamarbeit",
-        "teamwork" => "Das größte Netzwerk in Indonesien ist das Ergebnis einer großartigen Teamarbeit in T & S Internationale Gruppe ",
+        "teamwork" => "Das größte Netzwerk in Indonesien ist das Ergebnis einer großartigen Teamarbeit in T & S Internationale GRUPPE ",
         "judulintegrity" => "Integrität",
         "integrity" => "Die Integrität zu haben, die zu einer bekannten und professionellen Marke führt ",
         "judulsatisfaction" => "Kundenzufriedenheit",
@@ -50,7 +50,7 @@ dem Wunsch bestimmt, für heute und morgen das Richtige zu tun ",
         "tagproperti" => "IHR PRIVATER VERTRETER ",
         "desproperti" => "T & S PROPERTY HAT IMMER IM PRIVATUNTERNEHMEN EINE REFERENZ AUF EINEM FESTEN INDONESISCHEN ERBE ",
         "tagfondasi" => "Um einen echten gesellschaftlichen Beitrag zu leisten,",
-        "desfondasi" => " wird die T & S INTERNATIONAL-Gruppe eine Stiftung unter der Schirmherrschaft der T & S INTERNATIONAL-Gruppe gründen",
+        "desfondasi" => " wird die T & S INTERNATIONAL-GRUPPE eine Stiftung unter der Schirmherrschaft der T & S INTERNATIONAL-GRUPPE gründen",
         
         "properti" => "T & S-EIGENTUM",
         "whatmatter" => "Was ist Ihnen wichtig? ",
@@ -76,10 +76,10 @@ dem Wunsch bestimmt, für heute und morgen das Richtige zu tun ",
         
         "tnsfondasi" => "T & S-Stiftung ",
         "fondasi" => "Stiftung",
-        "jelasfondasi" => "Um einen echten gesellschaftlichen Beitrag zu leisten, wird die T & S INTERNATIONAL-Gruppe
-eine Stiftung unter der Schirmherrschaft der T & S INTERNATIONAL-Gruppe gründen. T & S
-INTERNATIONAL Group und Stiftungen koordinieren sich bei der Planung und Umsetzung von
-Programmen, um den Nutzen und das Ziel zu maximieren. Die T & S INTERNATIONAL-Gruppe
+        "jelasfondasi" => "Um einen echten gesellschaftlichen Beitrag zu leisten, wird die T & S INTERNATIONAL-GRUPPE
+eine Stiftung unter der Schirmherrschaft der T & S INTERNATIONAL-GRUPPE gründen. T & S
+INTERNATIONAL GROUP und Stiftungen koordinieren sich bei der Planung und Umsetzung von
+Programmen, um den Nutzen und das Ziel zu maximieren. Die T & S INTERNATIONAL-GRUPPE
 wird auch mit mehreren Stiftungen zusammenarbeiten, die privat oder von der Regierung,
 Botschaften und anderen Parteien vertreten sind, um unsere Arbeit dabei zu unterstützen, einen
 wirklichen Beitrag zur Gesellschaft zu leisten. Den Unglücklichen und denen, die besondere
@@ -96,10 +96,10 @@ von allen Seiten aufrichtige Unterstützung. ",
         "deswhatmakes" => "Unsere Philosophie, Kunden zu priorisieren, ist unser Erbe, daher wird unser erstklassiger Service
 dies tun Sei immer herausragend und auf jeden Fall das 'Feinste'. Unsere Erfahrung in diesem
 Bereich ist zweifellos ausgezeichnet. Unser Engagement wurde seit dem ersten Tag der Gründung
-der T & S INTERNATIONAL Group gezeigt. Wir handeln und kommunizieren auf eine Art und
+der T & S INTERNATIONAL GROUP gezeigt. Wir handeln und kommunizieren auf eine Art und
 Weise, die die Ausrichtung unserer Ziele mit unseren Kunden im Hinblick auf eine langfristige
 Beziehung unterstützt. Wir glauben, dass eine vertrauensvolle Beziehung der Schlüssel zum Erfolg
-der T & S INTERNATIONAL Gruppe ist. Unsere Liebe zum Detail und Professionalität sind nur
+der T & S INTERNATIONAL GRUPPE ist. Unsere Liebe zum Detail und Professionalität sind nur
 einige der Stärken, auf die wir setzen, um Dienstleistungen mit hohem Mehrwert und eine
 einwandfreie Servicequalität zu erbringen. Das unterscheidet uns von anderen ",
         
@@ -135,7 +135,7 @@ abschließt und andere in kritischen Zeiten und Situationen überzeugt. .<br/><b
 eigenes führendes Immobilienmaklerunternehmen in Indonesien zu gründen. Seit der
 Immobilienkrise im Jahr 2013 hat seine Mutter mit ihren Freunden ein Joint Venture aufgegeben.
 Also hat Tirta eine geniale Initiative ergriffen, um ein eigenes Immobilienmaklerunternehmen zu
-gründen. Die T & S International Group wurde 2016 von Tirta B. Wirawan gegründet. Er ist in vielen angesehenen Zeitschriften in Indonesien wie Forbes Indonesia,
+gründen. Die T & S International GROUP wurde 2016 von Tirta B. Wirawan gegründet. Er ist in vielen angesehenen Zeitschriften in Indonesien wie Forbes Indonesia,
 Prestige Indonesia Magazine, The Peak Indonesia, das Time Place Magazine, das Dewi Magazine
 und viele mehr. In jungen Jahren hat er zahlreiche diplomatische Verbindungen, Forbes-A-Listen,
 Politiker und Investoren.<br/><br/>
@@ -163,12 +163,12 @@ Deutschland & Indonesien absolvierte. ",
         • (2003 - 2008) Trading Stock - Freelance <br/>
         • (2008 - 2011) Roy Weston / HARCOURTS INDONESIA <br/>
         • (2011- 2015) EASTONS INDONESIA<br/>
-        • (2016 - now) T&S International Group as CEO<br/>",
+        • (2016 - now) T&S International GROUP as CEO<br/>",
         
         "sheriex2" => "
         • (1989) CIPUTRA Awards für höchste Priorität bei der Produzentenauszeichnung plus <br/>
         • (1999) BASF-Preise für „Pengabdian, dedikasi serta kesetiaan tanpa putus selama 10 Jahre aus der
-BASF-Gruppe von Indonesien <br/>
+BASF-GRUPPE von Indonesien <br/>
         • (2009) HARCOURTS INDONESIA MID YEAR AWARDS für Top-Exklusivlist <br/>
         • (2010) • HARCOURTS INDONESIA-JÄHRLICHE AUSZEICHNUNGEN für Top-Exklusivlisten<br/>",
         
@@ -178,7 +178,7 @@ BASF-Gruppe von Indonesien <br/>
         "paulabout" => "Indonesischer Staatsbürger, in Palembang geboren. 1989 abgeschlossen und einen Master in
 Informatik an der Technischen Universität Berlin erworben. Seit 2016 ist er Senior Vice President
 des Unternehmens. Paulus ist unser Senior Advisor für dieses Unternehmen (T & S
-INTERNATIONAL Group). Seine Arbeitserfahrungen sind immens breit. ",
+INTERNATIONAL GROUP). Seine Arbeitserfahrungen sind immens breit. ",
         
         "paulexp"=> "
         • (2007), Indonesiens Ausschuss für Investitionskoordination - PT. Kencana Mandiri Uli Nusantara,
@@ -187,7 +187,7 @@ One-Stop-Service-Softwareentwicklungsberater für Investitionsgenehmigungsverfah
         <br/>• (2008), Universitas Bungkarno - Dekan der Fakultät für Informatik und Informationssystem.
         <br/>• (2009), , Abteilung für öffentliche Arbeiten, IT-Berater für webbasiertes GIS-Monitoring,
 Regionalplanung. 
-        <br/>• (2016-jetzt) T & S INTERNATIONAL Group als Senior Vice President ",
+        <br/>• (2016-jetzt) T & S INTERNATIONAL GROUP als Senior Vice President ",
         
         "paulmoreexp" => "
         • (1986-1988),  INPRO GmbH in Berlin, Deutschland. Werkstudent als Programmierer in einem
@@ -197,7 +197,7 @@ durch CAD. Digitals VMS OS und in Pascal geschrieben.
 zur Entwicklung von Software für Computergrafik zur Unterstützung der dreidimensionalen
 Objektanimationen. Unter Unix OS und geschrieben in C. 
 .
-        <br/><br/>• (1990-1992),  P.T. Sigma Cipta Caraka in Jakarta. Gruppenleiterin Software-Dokumentation und -
+        <br/><br/>• (1990-1992),  P.T. Sigma Cipta Caraka in Jakarta. GRUPPEnleiterin Software-Dokumentation und -
 Verwaltung für Bankeninformationssystem. IBM AS / 400 4GL POWERHOUSE. .
         <br/><br/>• (1992-1994), P.T. BASF Indonesia in Jakarta, Leiter Planung und Controlling der
 Finanzabteilung, verantwortlich für den Informationsfluss (Dokumente) und das
@@ -355,7 +355,7 @@ Stadtplanung und Stadtentwicklung, Jakarta.",
         
         
         
-         "judulform" => "For information regarding T&S INTERNATIONAL Group please contact us by filling the form which are available",
+         "judulform" => "For information regarding T&S INTERNATIONAL GROUP please contact us by filling the form which are available",
         
         "panggilan" => "Greeting",
         "fname" => "First Name",
@@ -370,13 +370,13 @@ NUMBER 20 OF 2016 ABOUT PRIVATE DATA PROTECTION IN ELECTRONIC SYSTEM",
         
         "privacypolice" =>"Privacy &amp; Policy",
         "datapp" => "DATA PRIVACY POLICY",
-        "despp" => "The T&amp;S INTERNATIONAL Group and its subsidiaries ('T&amp;S', 'we' or 'us') welcome you to our
+        "despp" => "The T&amp;S INTERNATIONAL GROUP and its subsidiaries ('T&amp;S', 'we' or 'us') welcome you to our
 website, mobile applications and other services provided via electronic means (together referred
 to as 'Electronic Services') and appreciate your interest in our products and services.
-T&amp;S INTERNATIONAL Group attaches great importance to appropriate data protection. This
+T&amp;S INTERNATIONAL GROUP attaches great importance to appropriate data protection. This
 page explains how we treat your personal data in connection with your use of our Electronic
 Services ('Privacy Policy').
-By continuing to use the T&amp;S INTERNATIONAL Group Services, you confirm that you are 18 years
+By continuing to use the T&amp;S INTERNATIONAL GROUP Services, you confirm that you are 18 years
 of age or older and expressly agree with this Privacy Policy.
 Please note that we may amend this Privacy Policy from time to time. The applicable version is
     always the current one, as referenced above (last updated).",
@@ -414,12 +414,12 @@ request prior to entering into a contract;
 <br/>• For compliance with a legal obligation to which we are subject;
 <br/>• For the purposes of our legitimate interests.
 We process the data for the following purposes:
-<br/>• To comply with T&amp;S INTERNATIONAL Group own internal guidelines;
+<br/>• To comply with T&amp;S INTERNATIONAL GROUP own internal guidelines;
 <br/>• To check the identity and suitability of clients for certain products and services;
 <br/>• To establish a basis for future information on the products and services offered by T&amp;S
-INTERNATIONAL Group and to improve their quality;
+INTERNATIONAL GROUP and to improve their quality;
 <br/>• To facilitate technical administration, research and further development in connection with
-the T&amp;S INTERNATIONAL Group Electronic Services;
+the T&amp;S INTERNATIONAL GROUP Electronic Services;
 <br/>• To ensure the security and operation of our IT environment;
 <br/>• To use it for marketing and advertising measures (e.g. newsletters via e-mail, online
 advertising);
@@ -430,26 +430,26 @@ We process all your personal data in accordance with the applicable laws on data
     for as long as required.",
         
         "blabla" =>"<br/><h4>DISCLOSURE OF ELECTRONIC SERVICES USAGE DATA</h4>
-T&amp;S INTERNATIONAL Group only discloses Electronic Services usage data to third parties as
+T&amp;S INTERNATIONAL GROUP only discloses Electronic Services usage data to third parties as
 permitted by law, if we are legally obliged to do so or if such disclosure becomes necessary to
 enforce our rights, in particular to enforce claims arising from a contractual relationship. Within
 this scope as well as for the purpose of optimising our products and services, we may transmit
-data within the T&amp;S INTERNATIONAL Group between Group companies in Indonesia or abroad.
+data within the T&amp;S INTERNATIONAL GROUP between GROUP companies in Indonesia or abroad.
 Furthermore, we may disclose data to external service providers if this is necessary for the
 provision of products and services. Such service providers may not use the data for any other
 purpose than to process the order in question. All of the above persons and entities that may
 receive data must observe the applicable national and international data protection laws as well
-as the data protection standards of T&amp;S INTERNATIONAL Group.
-Where so prescribed by applicable legislation, T&amp;S INTERNATIONAL Group may on request or
+as the data protection standards of T&amp;S INTERNATIONAL GROUP.
+Where so prescribed by applicable legislation, T&amp;S INTERNATIONAL GROUP may on request or
 under an ongoing duty to provide information disclose data to supervisory authorities, judicial
 authorities or other persons of authority.
-<br/><Br/><h4>SECURITY MEASURES OF T&amp;S INTERNATIONAL Group</h4>
-T&amp;S INTERNATIONAL Group will make every effort to take appropriate technical and
+<br/><Br/><h4>SECURITY MEASURES OF T&amp;S INTERNATIONAL GROUP</h4>
+T&amp;S INTERNATIONAL GROUP will make every effort to take appropriate technical and
 organisational security measures to ensure that your personal data processed within the IT
-environment controlled by T&amp;S INTERNATIONAL Group is protected against unauthorised access,
+environment controlled by T&amp;S INTERNATIONAL GROUP is protected against unauthorised access,
 misuse, loss and/or destruction, taking account of the applicable legal and regulatory
 requirements.<br/>
-T&amp;S INTERNATIONAL Group takes both physical and electronic process-specific security
+T&amp;S INTERNATIONAL GROUP takes both physical and electronic process-specific security
 measures, including firewalls, personal passwords, and encryption and authentication
 technologies. Our employees and the service providers commissioned by us are bound by
 professional secrecy and must comply with all data protection provisions.
@@ -457,10 +457,10 @@ Additionally, access to personal data is restricted to only those employees, con
 parties who require this access in order to assure the purpose of data processing and the
 provision of products and services (need to know principle).<br/>
 <br/><h4>TRANSMISSION OF DATA VIA AN OPEN NETWORK </h4>
-T&amp;S INTERNATIONAL Group would like to draw your attention to the fact that if you use our
+T&amp;S INTERNATIONAL GROUP would like to draw your attention to the fact that if you use our
 Electronic Services via an open network, this may allow third parties (e.g. app stores, network
 providers or the manufacturer of your device), wherever they are located, to access and process
-your data. Open networks are beyond T&amp;S INTERNATIONAL Group control and can therefore not
+your data. Open networks are beyond T&amp;S INTERNATIONAL GROUP control and can therefore not
 be regarded as a secure environment. Any transmission of data via such open network cannot be
 guaranteed to be secure or error-free as data may be intercepted, amended, corrupted, lost,
 destroyed, arrive late or incomplete, contain viruses or may be monitored. In particular, data sent
@@ -472,7 +472,7 @@ of this data and we accept no responsibility or liability for the security of yo
 transmission. We, therefore, recommend avoiding the transmission of any strictly confidential
 information via open networks.
 <br/><bR/><h4>COOKIES</h4>
-The T&amp;S INTERNATIONAL Group Electronic Services use cookies for statistical purposes as a tool
+The T&amp;S INTERNATIONAL GROUP Electronic Services use cookies for statistical purposes as a tool
 for our web developers and to improve the user experience. Cookies are small files which are
 stored on your electronic device to keep track of your visit to the Electronic Services and your
 preferences; as you move between pages, and sometimes to save settings between visits.
@@ -495,13 +495,13 @@ Electronic Services. The information about your use generated by these cookies, 
 <br/>• device-specific information
 <p>may be transmitted to third party servers and is used for analysis purposes.
 Please refer to the previous section, 'Cookies', for information on deleting cookies.
-The T&amp;S INTERNATIONAL Group Electronic Services may contain links to third-party Electronic
+The T&amp;S INTERNATIONAL GROUP Electronic Services may contain links to third-party Electronic
 Services that are not operated or monitored by us. Please be aware that such third-party
 Electronic Services are not bound by this Privacy Policy and that we are not responsible for their
 content or their principles regarding the handling of personal data. We therefore recommend
 consulting and checking the individual privacy policies or terms of use of third-party Electronic
 Services. </p>",
-        "karirdes" => "At T&amp;S INTERNATIONAL Group, we believe that people are the key to our long-term success and that talent is in everyone. That’s why we empower our employees with the tools, guidance and opportunities they need to advance and succeed in work and life. Giving you the support you need to be your best and fulfill your ambitions is what helps us become the forefront in property business, thus becoming the first choice for consumers. After all, our success is linked to yours. Whatever path you envision, T&amp;S INTERNATIONAL Group is a great place to build a rewarding, successful career .",
+        "karirdes" => "At T&amp;S INTERNATIONAL GROUP, we believe that people are the key to our long-term success and that talent is in everyone. That’s why we empower our employees with the tools, guidance and opportunities they need to advance and succeed in work and life. Giving you the support you need to be your best and fulfill your ambitions is what helps us become the forefront in property business, thus becoming the first choice for consumers. After all, our success is linked to yours. Whatever path you envision, T&amp;S INTERNATIONAL GROUP is a great place to build a rewarding, successful career .",
         
         "worldneed" =>"The world needs us, we need you",
         "cv" => "Send your CV through",

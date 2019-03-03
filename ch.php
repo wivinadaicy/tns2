@@ -9,14 +9,14 @@
         "nav5" => "职业⽣生涯",
         "nav6" => "联系我们",
         "judulbesar" => "T＆S国际集团",
-        "tagjudulbesar" => "T＆S INTERNATIONAL Group及其⼦子公司T＆S Property成⽴立于2013年年，现在是雅加达⻄西部领先的房
+        "tagjudulbesar" => "T＆S INTERNATIONAL GROUP及其⼦子公司T＆S Property成⽴立于2013年年，现在是雅加达⻄西部领先的房
 地产经纪⼈人之⼀一。在房地产转型的背景下，重申我们的⽬目标，我们的⽴立场以及我们渴望成为的⽬目标
 ⽐比以往任何时候都更更加重要。",
         "visimisi" => "我们的愿景，使命和价值观旨在激励我们的决策和⾏行行动来领导
 印尼房地产市场为不不断变化的世界。",
         "judulvisimisi" => "我们的愿景，我们的使命",
         "judulvisi" => "愿景",
-        "visi" => "T＆S INTERNATIONAL Group渴望成为房地产的固定基准
+        "visi" => "T＆S INTERNATIONAL GROUP渴望成为房地产的固定基准
 拥有全球影响⼒力力的经纪⼈人，更更喜欢与我们的客户建⽴立⻓长期合作伙伴关系
 与强有⼒力力的责任相结合，以及维持全球发展。
 我们希望对客户，员⼯工和社会产⽣生积极影响。我们想
@@ -28,7 +28,7 @@
         "misi" => "通过保持最⾼高程度的专业性，同时仍然有利利可图，成为房地产业务的最前沿，从⽽而成为消费者的⾸首
 选。",
         "judulttg" => "关于我们",
-        "ttg"=> "我们有在经济增⻓长和⾦金金融不不稳定时期展示领导⼒力力的历史。多年年来，T＆S INTERNATIONAL Group⼀一
+        "ttg"=> "我们有在经济增⻓长和⾦金金融不不稳定时期展示领导⼒力力的历史。多年年来，T＆S INTERNATIONAL GROUP⼀一
 直致⼒力力于帮助客户开展⼀一流的业务。在此期间，我们采取了了⻓长期的客户解决⽅方案 - 始终为他们提供
 承诺，创新和⼀一致的建议和执⾏行行。
 多年年来，我们期待为客户提供⼀一流的服务。
@@ -56,7 +56,7 @@
         "tagproperti" => "你的私⼈人房地产经纪⼈人",
         "desproperti" => "根据固体印尼遗产，T＆S物业总是在私⼈人房地产经纪⼈人的参考",
         "tagfondasi" => "T＆S基⾦金金会",
-        "desfondasi" => "T＆S INTERNATIONAL Group将在T＆S INTERNATIONAL Group的⽀支
+        "desfondasi" => "T＆S INTERNATIONAL GROUP将在T＆S INTERNATIONAL GROUP的⽀支
 持下建⽴立⼀一个基⾦金金会",
         
         "properti" => "Property",
@@ -79,9 +79,9 @@
         
         "tnsfondasi" => "T＆S基⾦金金会",
         "fondasi" => "基金",
-        "jelasfondasi" => "为了了对社会做出真正的贡献，T＆S INTERNATIONAL Group将在T＆S INTERNATIONAL Group的⽀支
-持下建⽴立⼀一个基⾦金金会。 T＆S INTERNATIONAL Group和基⾦金金会协调规划和实施计划，以最⼤大限度地
-发挥所产⽣生的效益和⽬目标。 T＆S INTERNATIONAL Group还将与私⼈人或政府，⼤大使馆和其他⽅方⾯面的
+        "jelasfondasi" => "为了了对社会做出真正的贡献，T＆S INTERNATIONAL GROUP将在T＆S INTERNATIONAL GROUP的⽀支
+持下建⽴立⼀一个基⾦金金会。 T＆S INTERNATIONAL GROUP和基⾦金金会协调规划和实施计划，以最⼤大限度地
+发挥所产⽣生的效益和⽬目标。 T＆S INTERNATIONAL GROUP还将与私⼈人或政府，⼤大使馆和其他⽅方⾯面的
 ⼏几个基⾦金金会合作，协助我们为社会做出真正的贡献。帮助不不幸的⼈人和需要特殊需求的⼈人是我们未来
 的愿景和使命。因此，我们真诚地期待各⽅方的⽀支持。",
         "star" => "饥饿",
@@ -96,7 +96,7 @@
 永远是杰出的，并且⽆无论如何都是“最好的”。我们在这个特定领域的经验⽆无疑是绝佳的。⾃自T＆S
 INTERNATIONAL集团成⽴立以来，我们的奉献精神⼀一直在展现。我们以⽀支持我们与客户的⽬目标⼀一致
 的⽅方式⾏行行事和沟通，以期建⽴立⻓长期合作关系。我们相信，信任的关系是T＆S INTERNATIONAL
-Group成功的关键。我们注重细节和专业精神只是我们提供的⼀一些优势，可以提供⾼高附加值的服务，
+GROUP成功的关键。我们注重细节和专业精神只是我们提供的⼀一些优势，可以提供⾼高附加值的服务，
 以及⽆无可挑剔的服务质量量。这就是我们与众不不同的地⽅方",
         
         "judulpeople" => "T&amp;S <strong>PEOPLE</strong>",
@@ -163,7 +163,7 @@ Nehru印度⽂文化中⼼心） ，荷兰王国驻印度尼⻄西亚⼤大使�
         
         
         "paulabout" => "印度尼⻄西亚公⺠民，出⽣生在巨港。 1989年年毕业并获得柏林林技术⼤大学信息学系硕⼠士学位。他⾃自2016年年起
-担任该公司的⾼高级副总裁。 Paulus是本公司（T＆S INTERNATIONAL Group）的⾼高级顾问。他的⼯工
+担任该公司的⾼高级副总裁。 Paulus是本公司（T＆S INTERNATIONAL GROUP）的⾼高级顾问。他的⼯工
 作经历⾮非常⼴广泛。",
         
         "paulexp"=> "
@@ -172,7 +172,7 @@ Nehru印度⽂文化中⼼心） ，荷兰王国驻印度尼⻄西亚⼤大使�
 2008，Konstruksi Baja Cikande-顾问IT，设置MIS。<br>
 2008，Universitas Bungkarno - 计算机科学与信息系统学院院⻓长。<br>
 2009，公共⼯工程部，基于Web的GIS监测区域规划的IT顾问。<br>
-（2016年年 - 现在）T＆S INTERNATIONAL Group担任⾼高级副总裁",
+（2016年年 - 现在）T＆S INTERNATIONAL GROUP担任⾼高级副总裁",
         
         "paulmoreexp" => "
         • <br>（1986-1988），INPRO GmbH位于德国柏林林。作为程序员的⼯工作学⽣生开发了了由CAD控制的“机器器
@@ -325,7 +325,7 @@ Elex Media Komputindo雅加达。 ISBN 979-20-0302-9。
         
         
         
-         "judulform" => "有关T＆S INTERNATIONAL Group的信息，请填写可⽤用表格与我们联系",
+         "judulform" => "有关T＆S INTERNATIONAL GROUP的信息，请填写可⽤用表格与我们联系",
         
         "panggilan" => "问候",
         "fname" => "名字",
@@ -339,13 +339,13 @@ Elex Media Komputindo雅加达。 ISBN 979-20-0302-9。
         
         "privacypolice" =>"隐私政策",
         "datapp" => "数据隐私政策",
-        "despp" => "The T&amp;S INTERNATIONAL Group and its subsidiaries ('T&amp;S', 'we' or 'us') welcome you to our
+        "despp" => "The T&amp;S INTERNATIONAL GROUP and its subsidiaries ('T&amp;S', 'we' or 'us') welcome you to our
 website, mobile applications and other services provided via electronic means (together referred
 to as 'Electronic Services') and appreciate your interest in our products and services.
-T&amp;S INTERNATIONAL Group attaches great importance to appropriate data protection. This
+T&amp;S INTERNATIONAL GROUP attaches great importance to appropriate data protection. This
 page explains how we treat your personal data in connection with your use of our Electronic
 Services ('Privacy Policy').
-By continuing to use the T&amp;S INTERNATIONAL Group Services, you confirm that you are 18 years
+By continuing to use the T&amp;S INTERNATIONAL GROUP Services, you confirm that you are 18 years
 of age or older and expressly agree with this Privacy Policy.
 Please note that we may amend this Privacy Policy from time to time. The applicable version is
     always the current one, as referenced above (last updated).",
@@ -383,12 +383,12 @@ request prior to entering into a contract;
 <br/>• For compliance with a legal obligation to which we are subject;
 <br/>• For the purposes of our legitimate interests.
 We process the data for the following purposes:
-<br/>• To comply with T&amp;S INTERNATIONAL Group own internal guidelines;
+<br/>• To comply with T&amp;S INTERNATIONAL GROUP own internal guidelines;
 <br/>• To check the identity and suitability of clients for certain products and services;
 <br/>• To establish a basis for future information on the products and services offered by T&amp;S
-INTERNATIONAL Group and to improve their quality;
+INTERNATIONAL GROUP and to improve their quality;
 <br/>• To facilitate technical administration, research and further development in connection with
-the T&amp;S INTERNATIONAL Group Electronic Services;
+the T&amp;S INTERNATIONAL GROUP Electronic Services;
 <br/>• To ensure the security and operation of our IT environment;
 <br/>• To use it for marketing and advertising measures (e.g. newsletters via e-mail, online
 advertising);
@@ -399,26 +399,26 @@ We process all your personal data in accordance with the applicable laws on data
     for as long as required.",
         
         "blabla" =>"<br/><h4>DISCLOSURE OF ELECTRONIC SERVICES USAGE DATA</h4>
-T&amp;S INTERNATIONAL Group only discloses Electronic Services usage data to third parties as
+T&amp;S INTERNATIONAL GROUP only discloses Electronic Services usage data to third parties as
 permitted by law, if we are legally obliged to do so or if such disclosure becomes necessary to
 enforce our rights, in particular to enforce claims arising from a contractual relationship. Within
 this scope as well as for the purpose of optimising our products and services, we may transmit
-data within the T&amp;S INTERNATIONAL Group between Group companies in Indonesia or abroad.
+data within the T&amp;S INTERNATIONAL GROUP between GROUP companies in Indonesia or abroad.
 Furthermore, we may disclose data to external service providers if this is necessary for the
 provision of products and services. Such service providers may not use the data for any other
 purpose than to process the order in question. All of the above persons and entities that may
 receive data must observe the applicable national and international data protection laws as well
-as the data protection standards of T&amp;S INTERNATIONAL Group.
-Where so prescribed by applicable legislation, T&amp;S INTERNATIONAL Group may on request or
+as the data protection standards of T&amp;S INTERNATIONAL GROUP.
+Where so prescribed by applicable legislation, T&amp;S INTERNATIONAL GROUP may on request or
 under an ongoing duty to provide information disclose data to supervisory authorities, judicial
 authorities or other persons of authority.
-<br/><Br/><h4>SECURITY MEASURES OF T&amp;S INTERNATIONAL Group</h4>
-T&amp;S INTERNATIONAL Group will make every effort to take appropriate technical and
+<br/><Br/><h4>SECURITY MEASURES OF T&amp;S INTERNATIONAL GROUP</h4>
+T&amp;S INTERNATIONAL GROUP will make every effort to take appropriate technical and
 organisational security measures to ensure that your personal data processed within the IT
-environment controlled by T&amp;S INTERNATIONAL Group is protected against unauthorised access,
+environment controlled by T&amp;S INTERNATIONAL GROUP is protected against unauthorised access,
 misuse, loss and/or destruction, taking account of the applicable legal and regulatory
 requirements.<br/>
-T&amp;S INTERNATIONAL Group takes both physical and electronic process-specific security
+T&amp;S INTERNATIONAL GROUP takes both physical and electronic process-specific security
 measures, including firewalls, personal passwords, and encryption and authentication
 technologies. Our employees and the service providers commissioned by us are bound by
 professional secrecy and must comply with all data protection provisions.
@@ -426,10 +426,10 @@ Additionally, access to personal data is restricted to only those employees, con
 parties who require this access in order to assure the purpose of data processing and the
 provision of products and services (need to know principle).<br/>
 <br/><h4>TRANSMISSION OF DATA VIA AN OPEN NETWORK </h4>
-T&amp;S INTERNATIONAL Group would like to draw your attention to the fact that if you use our
+T&amp;S INTERNATIONAL GROUP would like to draw your attention to the fact that if you use our
 Electronic Services via an open network, this may allow third parties (e.g. app stores, network
 providers or the manufacturer of your device), wherever they are located, to access and process
-your data. Open networks are beyond T&amp;S INTERNATIONAL Group control and can therefore not
+your data. Open networks are beyond T&amp;S INTERNATIONAL GROUP control and can therefore not
 be regarded as a secure environment. Any transmission of data via such open network cannot be
 guaranteed to be secure or error-free as data may be intercepted, amended, corrupted, lost,
 destroyed, arrive late or incomplete, contain viruses or may be monitored. In particular, data sent
@@ -441,7 +441,7 @@ of this data and we accept no responsibility or liability for the security of yo
 transmission. We, therefore, recommend avoiding the transmission of any strictly confidential
 information via open networks.
 <br/><bR/><h4>COOKIES</h4>
-The T&amp;S INTERNATIONAL Group Electronic Services use cookies for statistical purposes as a tool
+The T&amp;S INTERNATIONAL GROUP Electronic Services use cookies for statistical purposes as a tool
 for our web developers and to improve the user experience. Cookies are small files which are
 stored on your electronic device to keep track of your visit to the Electronic Services and your
 preferences; as you move between pages, and sometimes to save settings between visits.
@@ -464,17 +464,17 @@ Electronic Services. The information about your use generated by these cookies, 
 <br/>• device-specific information
 <p>may be transmitted to third party servers and is used for analysis purposes.
 Please refer to the previous section, 'Cookies', for information on deleting cookies.
-The T&amp;S INTERNATIONAL Group Electronic Services may contain links to third-party Electronic
+The T&amp;S INTERNATIONAL GROUP Electronic Services may contain links to third-party Electronic
 Services that are not operated or monitored by us. Please be aware that such third-party
 Electronic Services are not bound by this Privacy Policy and that we are not responsible for their
 content or their principles regarding the handling of personal data. We therefore recommend
 consulting and checking the individual privacy policies or terms of use of third-party Electronic
 Services. </p>",
         "karirdes" => "世界需要我们，我们需要你！
-在 T＆S INTERNATIONAL Group，我们相信⼈人才是我们⻓长期成功的关键，每个⼈人都有才能。这就是
+在 T＆S INTERNATIONAL GROUP，我们相信⼈人才是我们⻓长期成功的关键，每个⼈人都有才能。这就是
 为什什么我们为员⼯工提供他们在⼯工作和⽣生活中取得进步和成功所需的⼯工具，指导和机会。为您提供最
 佳并满⾜足您的抱负所需的⽀支持，这有助于我们成为房地产业务的最前沿，从⽽而成为消费者的⾸首选。
-毕竟，我们的成功与你的成功有关。⽆无论您想要什什么样的道路路T＆S INTERNATIONAL Group都是建
+毕竟，我们的成功与你的成功有关。⽆无论您想要什什么样的道路路T＆S INTERNATIONAL GROUP都是建
 ⽴立⼀一个有益的，成功的职业⽣生涯的好地⽅方.",
         
         "worldneed" =>"世界需要我们，我们需要你！",

@@ -6,7 +6,8 @@
             <div class="container">
                 <div class="col-md-12 col-md-offset-0">
                     <div class="animate-box">
-                        <h2 style = "color:#007748"><span style = "font-weight:100"><?php echo $lang['tns'];?></span> <strong><?php echo $lang['properti'];?></strong></h2>
+                        <h2 style = "color:#007748"><span style = "font-weight:100"><strong><?php echo $lang['tns'];?></strong></span> <?php echo $lang['properti'];?></h2>
+                        <p align = "center" style = "color:#007748">BUY - SELL - RENT - AUCTION </p>
                         <p class="breadcrumbs"><span><a href="index.php" style = "color:#007748"><?php echo $lang['home'];?></a></span><span><a href="discover.php" style = "color:#007748"><?php echo $lang['tagtemukan'];?></a></span><span style = "color:#007748"><strong><?php echo $lang['tns'] . $lang['properti'];?> </strong></span></p>
                     </div>
                 </div>

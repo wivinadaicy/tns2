@@ -8,8 +8,8 @@
         "nav4" => "Tentang Kami",
         "nav5" => "Karier",
         "nav6" => "Kontak",
-        "judulbesar" => "T&S INTERNATIONAL Group",
-        "tagjudulbesar" => "T&S INTERNATIONAL Group dan salah satu anak perusahaannya, T&S Property, didirikan pada
+        "judulbesar" => "T&S INTERNATIONAL GROUP",
+        "tagjudulbesar" => "T&S INTERNATIONAL GROUP dan salah satu anak perusahaannya, T&S Property, didirikan pada
                             tahun 2013, dan sekarang menjadi salah satu agen properti terkemuka di Jakarta Barat. Dalam
                             konteks transformasi Real Estat, lebih penting dari sebelumnya untuk menegaskan kembali tujuan
                             kita, apa yang kita perjuangkan dan apa yang kita cita-citakan.",
@@ -17,7 +17,7 @@
         "visimisi" => "Visi kami, misi kami dan nilai - nilai kami bertujuan menginspirasi keputusan dan tindakan kami
                             untuk memimpin pasar properti Indonesia untuk dunia yang terus berubah.",
         "judulvisi" => "Visi",
-        "visi" => "T&S INTERNATIONAL Group bercita-cita untuk menjadi tolok ukur yang ditetapkan di antara
+        "visi" => "T&S INTERNATIONAL GROUP bercita-cita untuk menjadi tolok ukur yang ditetapkan di antara
                     broker Real Estat dengan jangkauan global, yang lebih memilih kemitraan jangka panjang dengan
                     klien kami, bersama dengan tanggung jawab yang kuat, serta mempertahankan pembangunan
                     global. Kami ingin memberikan dampak positif bagi pelanggan, karyawan, dan masyarakat . Kami
@@ -33,7 +33,7 @@
         "judulhistory" => "Sejarah Perusahaan",
         "judulttg" => "Tentang T&amp;S",
         "ttg"=> "Kami memiliki sejarah menunjukkan kepemimpinan selama masa pertumbuhan ekonomi dan
-                ketidakstabilan keuangan. Selama bertahun-tahun T&S INTERNATIONAL Group telah membantu
+                ketidakstabilan keuangan. Selama bertahun-tahun T&S INTERNATIONAL GROUP telah membantu
                 klien melakukan bisnis dengan layanan kelas satu. Sepanjang periode itu, kami telah mengambil
                 pendekatan jangka panjang untuk solusi klien serta memberikan mereka nasihat dan eksekusi
                 yang berkomitmen, inovatif dan konsisten setiap saat. Kami menantikan untuk bisa memberikan
@@ -48,7 +48,7 @@
         "judulenthusiasm" => "Antusiasme",
         "enthusiasm" => "Sambut antusiasme kerja untuk menandai pencapaian tinggi Agen kami",
         "judulteamwork" => "Kerja Tim",
-        "teamwork" => "Jaringan terbesar di Indonesia adalah hasil dari Kerja Tim yang luar biasa di T&S INTERNASIONAL                      Group",
+        "teamwork" => "Jaringan terbesar di Indonesia adalah hasil dari Kerja Tim yang luar biasa di T&S INTERNASIONAL                      GROUP",
         "judulintegrity" => "Integritas",
         "integrity" => "Untuk memiliki integritas yang akan mengarah pada Merek yang sepenuhnya dikenal dan profesional",
         "judulsatisfaction" => "Kepuasan Pelanggan",
@@ -93,9 +93,9 @@ memberikan Anda layanan kelas satu selama bertahun-tahun dengan keinginan Anda."
         "fondasi" => "Yayasan",
         "jelasfondasi" => "Untuk memberikan kontribusi nyata kepada masyarakat, Grup T&S INTERNATIONAL akan
         membangun sebuah yayasan di bawah naungan Grup T&S INTERNATIONAL.
-        T & S INTERNATIONAL Group dan yayasan berkoordinasi dalam perencanaan dan implementasi
+        T & S INTERNATIONAL GROUP dan yayasan berkoordinasi dalam perencanaan dan implementasi
         program untuk memaksimalkan manfaat yang dihasilkan dan tepat sasaran.
-        T & S INTERNATIONAL Group juga akan bekerja dengan beberapa yayasan yang berdiri secara
+        T & S INTERNATIONAL GROUP juga akan bekerja dengan beberapa yayasan yang berdiri secara
         privat atau dari pemerintah, kedutaan besar dan pihak lain, untuk membantu pekerjaan kami
         dalam memberikan kontribusi nyata kepada masyarakat. Membantu masyarakat yang kurang
         beruntung dan mereka yang membutuhkan kebutuhan khusus adalah visi dan misi kami di masa
@@ -111,10 +111,10 @@ memberikan Anda layanan kelas satu selama bertahun-tahun dengan keinginan Anda."
         "deswhatmakes" => "Filosofi kami untuk memprioritaskan klien adalah warisan kami, oleh karena itu layanan kelas satu
 kami akan selalu luar biasa, dan tentu saja yang 'terbaik'. Pengalaman kami dalam bidang ini
 tentunya sangat banyak .
-Dedikasi kami telah ditunjukkan sejak hari pertama T&S INTERNATIONAL Group didirikan. Kami
+Dedikasi kami telah ditunjukkan sejak hari pertama T&S INTERNATIONAL GROUP didirikan. Kami
 bertindak dan berkomunikasi dengan cara yang mendukung penyelarasan tujuan kami dengan
 klien kami, dengan pandangan ke arah hubungan jangka panjang. Kami percaya bahwa hubungan
-yang saling percaya adalah kunci keberhasilan T&S INTERNATIONAL Group. Perhatian kami pada
+yang saling percaya adalah kunci keberhasilan T&S INTERNATIONAL GROUP. Perhatian kami pada
 detail dan profesionalisme hanyalah beberapa kekuatan yang kami punya memberikan layanan
 bernilai tinggi, serta kualitas layanan yang sempurna. Itulah yang membedakan kami dari yang lain.",
         
@@ -148,7 +148,7 @@ membujuk orang lain terutama dalam waktu dan situasi kritis.<br><br>
 Di awal karir bisnisnya, ia belajar banyak dari ibunya, bahwa ia ingin membuat perusahaan
 makelar properti terkemuka di Indonesia. Sejak krisis properti pada 2013, ibunya berhenti bekerja
 sama dengan teman-temannya. Jadi Tirta mengambil inisiatif cemerlang untuk membuat
-perusahaan makelar properti miliknya. Pada tahun 2016 T&S International Group didirikan oleh
+perusahaan makelar properti miliknya. Pada tahun 2016 T&S International GROUP didirikan oleh
 Tirta B. Wirawan<br><br>
 Ia tampil di banyak majalah bergengsi di Indonesia seperti Forbes Indonesia, Majalah Prestige
 Indonesia, The Peak Indonesia, The Time Place Magazine, Majalah Dewi dan banyak lagi. Di
@@ -173,7 +173,7 @@ Jerman & Indonesia.<br>
 • (2003 - 2008) Saham - Freelance<br>
 • (2008 - 2011) Roy Weston / HARCOURTS INDONESIA<br>
 • (2011- 2015) EASTONS INDONESIA<br>
-• (2016 - sekarang) T&S International Group sebagai CEO",
+• (2016 - sekarang) T&S International GROUP sebagai CEO",
         
         "sherititexp2" =>"Penghargaan",
         
@@ -190,7 +190,7 @@ masa kerja di BASF GROUP di Indonesia (1999)<br>
         "paulabout" => "Warga Negara Indonesia, lahir di Palembang. Lulus pada tahun 1989 dan meraih gelar master di
 Departemen Informatika - Technical University Berlin. Dia menjabat sebagai Wakil Presiden Sr
 perusahaan sejak 2016. Paulus adalah penasihat senior kami untuk Perusahaan ini (T&S
-INTERNATIONAL Group). Pengalaman kerjanya sangat luas.",
+INTERNATIONAL GROUP). Pengalaman kerjanya sangat luas.",
         
         "paulexp"=> "
         2007, Badan Koordinasi Penanaman Modal Indonesia - PT. Kencana Mandiri Uli Nusantara,
@@ -199,7 +199,7 @@ Konsultan Pengembangan Perangkat Lunak Satu Pintu untuk Proses Izin Investasi.<b
 2008, Universitas Bungkarno - Dekan Fakultas Ilmu Komputer dan Sistem Informasi.<br>
 2009, Departemen Pekerjaan Umum, Konsultan IT untuk Perencanaan Regional Pemantauan
 SIG berbasis web.<br>
-(2016 - Sekarang) T&S INTERNATIONAL Group sebagai Wakil Presiden Sr.<br>",
+(2016 - Sekarang) T&S INTERNATIONAL GROUP sebagai Wakil Presiden Sr.<br>",
         
         "paulmoreexp" => "
        (1986-1988), INPRO GmbH di Berlin, Jerman. Siswa yang Bekerja sebagai Pemrogram dalam
@@ -365,7 +365,7 @@ Yogyakarta ISBN 979-756-258-8.
         
         
         
-         "judulform" => "Untuk informasi mengenai T&S INTERNATIONAL Group, silakan hubungi kami dengan mengisi
+         "judulform" => "Untuk informasi mengenai T&S INTERNATIONAL GROUP, silakan hubungi kami dengan mengisi
 formulir yang tersedia",
         
         "panggilan" => "Panggilan",
@@ -381,11 +381,11 @@ TENTANG PERLINDUNGAN DATA SWASTA DALAM SISTEM ELEKTRONIK",
         
         "privacypolice" =>"Privacy &amp; Policy",
         "datapp" => "KEBIJAKAN PRIVASI DATA",
-        "despp" => "T&S INTERNATIONAL Group dan anak perusahaannya ('T&S', 'kami' atau 'kami') menyambut
+        "despp" => "T&S INTERNATIONAL GROUP dan anak perusahaannya ('T&S', 'kami' atau 'kami') menyambut
 Anda di situs web kami, aplikasi seluler, dan layanan lainnya yang disediakan melalui sarana
 elektronik (bersama-sama disebut 'Layanan Elektronik') dan menghargai minat Anda pada
 produk dan layanan kami.<br>
-T&S INTERNATIONAL Group sangat mementingkan perlindungan data yang sesuai. Halaman ini
+T&S INTERNATIONAL GROUP sangat mementingkan perlindungan data yang sesuai. Halaman ini
 menjelaskan bagaimana kami memperlakukan data pribadi Anda sehubungan dengan
 penggunaan Layanan Elektronik kami oleh Anda ('Kebijakan Privasi').<br>
 Dengan terus menggunakan Layanan Grup T&S INTERNATIONAL, Anda mengonfirmasi bahwa
@@ -429,12 +429,12 @@ sesuai permintaan Anda sebelum menandatangani kontrak;<br>
 Untuk kepatuhan dengan kewajiban hukum yang menjadi subjek kami;<br>
 Demi kepentingan kita yang sah.<br><br>
 Kami memproses data untuk tujuan berikut:<br>
-Untuk mematuhi pedoman internal T&S INTERNATIONAL Group sendiri;<br>
+Untuk mematuhi pedoman internal T&S INTERNATIONAL GROUP sendiri;<br>
 Untuk memeriksa identitas dan kesesuaian klien untuk produk dan layanan tertentu;<br>
 Untuk membangun dasar bagi informasi di masa mendatang tentang produk dan layanan yang
-ditawarkan oleh T&S INTERNATIONAL Group dan untuk meningkatkan kualitasnya;<br>
+ditawarkan oleh T&S INTERNATIONAL GROUP dan untuk meningkatkan kualitasnya;<br>
 Untuk memfasilitasi administrasi teknis, penelitian dan pengembangan lebih lanjut sehubungan
-dengan T&S INTERNATIONAL Group Electronic Services;<br>
+dengan T&S INTERNATIONAL GROUP Electronic Services;<br>
 Untuk memastikan keamanan dan pengoperasian lingkungan TI kami;<br>
 Untuk menggunakannya untuk tindakan pemasaran dan periklanan (mis. Buletin via email, iklan
 online);<br>
@@ -445,7 +445,7 @@ Kami memproses semua data pribadi Anda sesuai dengan undang-undang yang berlaku 
 perlindungan data dan selama diperlukan.<br>",
         
         "blabla" =>"<br/><h4>ENGUNGKAPAN DATA PENGGUNAAN LAYANAN ELEKTRONIK</h4>
-<p>T&S INTERNATIONAL Group hanya mengungkapkan data penggunaan Layanan Elektronik
+<p>T&S INTERNATIONAL GROUP hanya mengungkapkan data penggunaan Layanan Elektronik
 kepada pihak ketiga sebagaimana diizinkan oleh hukum, jika kita diwajibkan secara hukum untuk
 melakukannya atau jika pengungkapan seperti itu diperlukan untuk menegakkan hak-hak kami,
 khususnya untuk menegakkan klaim yang timbul dari hubungan kontraktual. Dalam ruang lingkup
@@ -456,16 +456,16 @@ untuk penyediaan produk dan layanan. Penyedia layanan tersebut tidak boleh mengg
 untuk tujuan lain selain untuk memproses pesanan yang dimaksud. Semua orang dan entitas di
 atas yang mungkin menerima data harus mematuhi undang-undang perlindungan data nasional
 dan internasional yang berlaku serta standar perlindungan data Grup T&S INTERNATIONAL.
-Jika demikian ditentukan oleh undang-undang yang berlaku, T&S INTERNATIONAL Group dapat
+Jika demikian ditentukan oleh undang-undang yang berlaku, T&S INTERNATIONAL GROUP dapat
 berdasarkan permintaan atau di bawah tugas yang berkelanjutan untuk memberikan informasi
 mengungkapkan data kepada otoritas pengawas, otoritas yudisial atau pihak berwenang lainnya.</p
-<h4<TINDAKAN KEAMANAN T&S INTERNATIONAL Group</h4>
-<p>T&S INTERNATIONAL Group akan melakukan segala upaya untuk mengambil langkah-langkah
+<h4<TINDAKAN KEAMANAN T&S INTERNATIONAL GROUP</h4>
+<p>T&S INTERNATIONAL GROUP akan melakukan segala upaya untuk mengambil langkah-langkah
 keamanan teknis dan organisasi yang tepat untuk memastikan bahwa data pribadi Anda diproses
-dalam lingkungan TI yang dikendalikan oleh T&S INTERNATIONAL Group dilindungi dari akses
+dalam lingkungan TI yang dikendalikan oleh T&S INTERNATIONAL GROUP dilindungi dari akses
 yang tidak sah, penyalahgunaan, kehilangan dan / atau perusakan, dengan mempertimbangkan
 yang berlaku persyaratan hukum dan peraturan.<br>
-T&S INTERNATIONAL Group mengambil langkah-langkah keamanan khusus fisik dan elektronik,
+T&S INTERNATIONAL GROUP mengambil langkah-langkah keamanan khusus fisik dan elektronik,
 termasuk firewall, kata sandi pribadi, dan teknologi enkripsi dan otentikasi. Karyawan kami dan
 penyedia layanan yang ditugaskan oleh kami terikat oleh kerahasiaan profesional dan harus
 mematuhi semua ketentuan perlindungan data.<br>
@@ -473,11 +473,11 @@ Selain itu, akses ke data pribadi dibatasi hanya untuk karyawan, kontraktor, dan
 memerlukan akses ini untuk memastikan tujuan pemrosesan data dan penyediaan produk dan
 layanan (perlu mengetahui prinsip).</p>
 <h4>TRANSMISI DATA MELALUI JARINGAN TERBUKA </h4>
-<p>T&S INTERNATIONAL Group ingin menarik perhatian Anda pada kenyataan bahwa jika Anda
+<p>T&S INTERNATIONAL GROUP ingin menarik perhatian Anda pada kenyataan bahwa jika Anda
 menggunakan Layanan Elektronik kami melalui jaringan terbuka, ini memungkinkan pihak ketiga
 (mis. Toko aplikasi, penyedia jaringan atau produsen perangkat Anda), di mana pun mereka
 berada, untuk akses dan proses data Anda. Jaringan terbuka berada di luar kendali T&S
-INTERNATIONAL Group dan karenanya tidak dapat dianggap sebagai lingkungan yang aman.
+INTERNATIONAL GROUP dan karenanya tidak dapat dianggap sebagai lingkungan yang aman.
 Setiap transmisi data melalui jaringan terbuka seperti itu tidak dapat dijamin aman atau bebas
 kesalahan karena data dapat disadap, diubah, rusak, hilang, dihancurkan, tiba terlambat atau tidak
 lengkap, mengandung virus atau dapat dipantau. Secara khusus, data yang dikirim melalui
@@ -490,14 +490,14 @@ atas perlindungan data ini dan kami tidak bertanggung jawab atau berkewajiban at
 data Anda selama pengiriman. Karena itu, kami merekomendasikan untuk menghindari
 pengiriman informasi rahasia yang ketat melalui jaringan terbuka.</p>",
         "karirdes" => "Dunia membutuhkan kita dan kita membutuhkanmu!
-Di T&S INTERNATIONAL Group, kami percaya bahwa orang-orang adalah kunci keberhasilan
+Di T&S INTERNATIONAL GROUP, kami percaya bahwa orang-orang adalah kunci keberhasilan
 jangka panjang kami dan bahwa bakat ada di setiap orang. Itulah sebabnya kami memberdayakan
 karyawan kami dengan alat, bimbingan, dan peluang yang mereka butuhkan untuk maju dan
 berhasil dalam pekerjaan dan kehidupan. Memberi Anda dukungan yang Anda butuhkan untuk
 menjadi yang terbaik dan memenuhi ambisi Anda adalah yang membantu kami menjadi yang
 terdepan dalam bisnis properti, sehingga menjadi pilihan pertama bagi konsumen.
 Bagaimanapun, kesuksesan kami terkait dengan Anda. Apa pun jalan yang Anda bayangkan, T&S
-INTERNATIONAL Group adalah tempat yang tepat untuk membangun karier yang sukses dan
+INTERNATIONAL GROUP adalah tempat yang tepat untuk membangun karier yang sukses dan
 bermanfaat .",
         
         "worldneed" =>"Dunia membutuhkan kita dan kita membutuhkanmu!",

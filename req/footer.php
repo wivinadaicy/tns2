@@ -9,12 +9,28 @@
             <div class="col-md-3 colorlib-widget">
                 <h4 style = "color:#008755"><?php echo $lang['information'];?></h4>
                 <ul class="colorlib-footer-links">
-                    <li><a href="index.php"><?php echo $lang['nav1'];?></a></li>
-                    <li class="has-dropdown"><a href="discover.php"><?php echo $lang['nav2'];?></a></li>
-                    <li><a href="difference.php"><?php echo $lang['nav3'];?></a></li>
-                    <li><a href="about.php"><?php echo $lang['nav4'];?></a></li>
-                    <li><a href="career.php"><?php echo $lang['nav5'];?></a></li>
-                    <li><a href="contact.php"><?php echo $lang['nav6'];?></a></li>
+                    <li class = "has-dropdown">
+                        <a href="index.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav1'];?> </a>
+                        <ul class="dropdown">
+                            <li><a href="vision.php" style = "color:white; font-weight:Bolder">Vision &amp; Mission</a></li>
+                            <li><a href="values.php" style = "color:white; font-weight:Bolder">Our Values</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="about.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav4'];?></a></li>
+                    <li class="has-dropdown">
+                        <a href="discover.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav2'];?></a>
+                        <ul class="dropdown">
+                            <li><a href="property.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav2a'];?></a></li>
+                            <li><a href="foundation.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav2b'];?></a></li>
+                            <li><a href="#" style = "color:white; font-weight:Bolder">T&AMP;S Chemical</a></li>
+                            <li><a href="#" style = "color:white; font-weight:Bolder">T&AMP;S Pulp</a></li>
+                            <li><a href="#" style = "color:white; font-weight:Bolder">T&AMP;S Mining</a></li>
+                            <li><a href="#" style = "color:white; font-weight:Bolder">T&AMP;S Resources</a></li>
+                            <li><a href="#" style = "color:white; font-weight:Bolder">T&AMP;S Beverage &amp; Dairy</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="difference.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav3'];?></a></li>
+                    <li><a href="career.php" style = "color:white; font-weight:Bolder"><?php echo $lang['nav5'];?></a></li>
                 </ul>
             </div>
             
