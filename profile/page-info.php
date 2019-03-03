@@ -2,7 +2,7 @@
 <?php
 switch($_GET["id"]){
     case 1:{
-        $_SESSION["img"] = "tirtaProfile.jpg";
+        $_SESSION["img"] = "tirta.jpeg";
         $_SESSION["nama"] = "Tirta B. Wirawan";
         $_SESSION["about"] = $lang['tirtaabout'];
         $_SESSION["experience"] = "";

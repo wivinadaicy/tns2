@@ -72,11 +72,12 @@
                             <ul class="dropdown">
                                 <li><a href="property.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2a'];?></a></li>
                                 <li><a href="foundation.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2b'];?></a></li>
-                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Chemical</a></li>
-                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Pulp</a></li>
-                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Mining</a></li>
-                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Resources</a></li>
-                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Beverage &amp; Dairy</a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2c'];?></a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2d'];?></a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2e'];?></a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2f'];?></a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2g'];?></a></li>
+                                
                             </ul>
                         </li>
                         <li <?php if($_SESSION["page"] == "difference"){ ?> style = "border-top:2px solid #007248" <?php } ?>><a href="difference.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav3'];?></a></li>

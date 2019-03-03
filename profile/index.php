@@ -1,11 +1,12 @@
 
 <div class="row row-pb-lg" style = "margin-top:50px">
     <div class="col-md-6 animate-box">
-        <div class="video colorlib-video" style="background-image: url(assets/img/<?php echo $_SESSION["img"];?>); background-size:cover; background-position: center top">
+        <div class="col-lg-12">
+            <img src = "assets/img/<?php echo $_SESSION["img"];?>" style = "width:100%">
         </div>
     </div>
     <div class="col-md-6 animate-box">
-        <h2>About <?php echo $_SESSION["nama"];?></h2>
+        <h2><?php echo $_SESSION["nama"];?></h2>
         <p style ="text-align: justify; text-align-last: left;"><?php echo $_SESSION["about"];?></p>
     </div>
 </div>
