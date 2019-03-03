@@ -21,7 +21,7 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400" rel="stylesheet">
-	
+	<link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="16x16" />
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="assets/css/animate.css">
 	<!-- Icomoon Icon Fonts-->

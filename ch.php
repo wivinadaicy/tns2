@@ -75,7 +75,7 @@
         "land" => "⼟土地",
         "apart" => "公寓",
         "resi" => "住宅",
-        "bisnispriv" => "商业/企业 - 私⼈人",
+        "bisnispriv" => "私⼈人",
         
         "tnsfondasi" => "T＆S基⾦金金会",
         "fondasi" => "基金",

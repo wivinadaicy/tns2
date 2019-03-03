@@ -1,25 +1,31 @@
-<div style="position:relative; height:40px; background-color: green; margin-bottom:0px"><div class="brand-bar">
+<div id = "copy" style="">
+    <div class="brand-bar">
             <div class="container">
                 <div class="row">
                     <div class="brand-social col-md-5 col-sm-3">
                         <ul>
                             <li class="instagram">
-                                <a href="https://instagram.com/bnpparibas/" target="_blank">
+                                <a href="https://www.instagram.com/tnsgruppe/" target="_blank">
                                     <i class="fab fa-instagram"></i>
                                 </a>
                             </li>
                             <li class="twitter">
-                                <a href="https://twitter.com/BNPParibas" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="fab fa-twitter"></i>
                                 </a>
                             </li>
                             <li class="linkedin">
-                                <a href="https://www.linkedin.com/company/bnp-paribas" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="fab fa-linkedin-in"></i>
                                 </a>
                             </li>
+                            <li class="facebook">
+                                <a href="https://www.facebook.com/pages/category/Real-Estate-Agent/TS-International-Group-640885576344326/" target="_blank">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                            </li>
                             <li class="youtube">
-                                <a href="https://www.youtube.com/user/BNPParibas" target="_blank">
+                                <a href="https://www.youtube.com/channel/UClo0mUbE1YcZD9s0s7ZScEg?view_as=subscriber" target="_blank">
                                     <i class="fab fa-youtube"></i>
                                 </a>
                             </li>
@@ -37,7 +43,7 @@
                                         <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                                     </ul>
                                 </li>
-                                <li><a href="/en/contacts"><?php echo $lang['nav6'];?></a></li>
+                                <li><a href="contact.php"><?php echo $lang['nav6'];?></a></li>
                             </ul>
                         </div>
                 </div>
@@ -59,15 +65,20 @@
                                 <li><a href="values.php" style = "color:#007348; font-weight:Bolder">Our Values</a></li>
                             </ul>
                         </li>
+                        <li><a href="about.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav4'];?></a></li>
                         <li class="has-dropdown">
                             <a href="discover.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2'];?></a>
                             <ul class="dropdown">
                                 <li><a href="property.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2a'];?></a></li>
                                 <li><a href="foundation.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav2b'];?></a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Chemical</a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Pulp</a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Mining</a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Resources</a></li>
+                                <li><a href="#" style = "color:#007348; font-weight:Bolder">T&AMP;S Beverage &amp; Dairy</a></li>
                             </ul>
                         </li>
                         <li><a href="difference.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav3'];?></a></li>
-                        <li><a href="about.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav4'];?></a></li>
                         <li><a href="career.php" style = "color:#007348; font-weight:Bolder"><?php echo $lang['nav5'];?></a></li>
 
                     </ul>

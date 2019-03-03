@@ -5,6 +5,12 @@
   font-weight: normal;
   font-style: normal; }
 
+@font-face {
+  font-family: 'main';
+  src: url("../fonts/avenir/AvenirLTStd-Roman");
+  font-weight: normal;
+  font-style: normal; }
+
 /* =======================================================
 *
 * 	Template Style 
@@ -12,7 +18,7 @@
 * ======================================================= */
 body {
     overflow-x:hidden;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: main, Arial, sans-serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 2;
@@ -1736,3 +1742,13 @@ SIDE DOT NAV Main components
 END OF Main components SIDE DOT NAV
 
 -------------------------------- */
+#copy{
+    background: rgba(0,115,73,1);
+background: -moz-linear-gradient(left, rgba(0,115,73,1) 0%, rgba(106,187,151,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,115,73,1)), color-stop(100%, rgba(106,187,151,1)));
+background: -webkit-linear-gradient(left, rgba(0,115,73,1) 0%, rgba(106,187,151,1) 100%);
+background: -o-linear-gradient(left, rgba(0,115,73,1) 0%, rgba(106,187,151,1) 100%);
+background: -ms-linear-gradient(left, rgba(0,115,73,1) 0%, rgba(106,187,151,1) 100%);
+background: linear-gradient(to right, rgba(0,115,73,1) 0%, rgba(106,187,151,1) 100%);
+    position:relative; height:40px; background-color: green; margin-bottom:0px
+}

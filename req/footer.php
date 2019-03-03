@@ -1,7 +1,6 @@
 <footer id="colorlib-footer">
     <div class="container">
         <div class="row row-pb-md">
-            <div class = "col-lg-1"></div>
             <div class="col-md-7 colorlib-widget">
                 <h4 style = "color:#008755"><?php echo $lang['judulttg'];?></h4>
                 <p style = "text-align:justify; text-align-last:left"><?php echo $lang['visi'];?></p>
@@ -19,7 +18,15 @@
                 </ul>
             </div>
             
-            <div class = "col-lg-1"></div>
+            <div class = "col-md-2 colorlib-widget">
+                <h4 style = "color:#008755">Language</h4>
+                <ul class="language-menu" data-suggester="langmenu.suggester.label" style = "list-style-type:none; display:inline-block">                                 
+                    <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=id'"><img src='assets/img/icon/indonesia.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=en'"><img src='assets/img/icon/us.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=gr'"><img src='assets/img/icon/germany.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li style = "cursor:pointer; color:white; margin-top:11px" onclick = "location.href = 'index.php?lang=ch'"><img src='assets/img/icon/china.png' style = 'width:20px; margin-right: 5px; '>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                </ul>
+            </div>
             
         </div>
     </div>

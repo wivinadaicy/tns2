@@ -5,7 +5,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-checkmark2"></i>
+                <i style = "color:#007348" class="icon-checkmark2"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulexcellence'];?></h3>
@@ -16,7 +16,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-stats-dots"></i>
+                <i style = "color:#007348" class="icon-stats-dots"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulenthusiasm'];?></h3>
@@ -27,7 +27,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-stack"></i>
+                <i style = "color:#007348" class="icon-stack"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulteamwork'];?></h3>
@@ -38,7 +38,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-lock2"></i>
+                <i style = "color:#007348" class="icon-lock2"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulintegrity'];?></h3>
@@ -49,7 +49,7 @@
     <div class="col-md-2 text-center animate-box">
         <div class="services">
             <span class="icon">
-                <i class="icon-user-check"></i>
+                <i style = "color:#007348" class="icon-user-check"></i>
             </span>
             <div class="desc">
                 <h3><?php echo $lang['judulsatisfaction'];?></h3>

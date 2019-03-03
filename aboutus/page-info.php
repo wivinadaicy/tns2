@@ -5,9 +5,9 @@
         <div class="display-tc display-tc2">
             <div class="container">
                 <div class="col-md-12 col-md-offset-0">
-                    <div class="animate-box">
-                        <h2><span style = "font-weight:100;"><?php echo $lang['judulpeople'];?></span></h2>
-                        <p class="breadcrumbs"><span><a href="index.php"><?php echo $lang['home'];?></a></span><span><?php echo $lang['tagpeople'];?></span></p>
+                    <div class="animate-box" style = "color:#007748">
+                        <h2><span style = "color:#007748;font-weight:100;"><?php echo $lang['judulpeople'];?></span></h2>
+                        <p class="breadcrumbs"><span><a href="index.php" style = "color:#007748"><?php echo $lang['home'];?></a></span><span style = "color:#007748"><?php echo $lang['tagpeople'];?></span></p>
                     </div>
                 </div>
             </div>

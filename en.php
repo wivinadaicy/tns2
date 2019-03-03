@@ -60,14 +60,14 @@
         "land" => "Land",
         "apart" => "Apartment",
         "resi" => "Residential",
-        "bisnispriv" => "BUSINESS / CORPORATE - Private",
+        "bisnispriv" => "PRIVATE",
         
         "tnsfondasi" => "T&amp;S FOUNDATION",
         "fondasi" => "Foundation",
         "jelasfondasi" => "To make a real contribution to society, T&S INTERNATIONAL Group will establish a foundation under the auspices of T&S INTERNATIONAL Group. T&S INTERNATIONAL Group and foundations coordinate in planning and implementing programs to maximize the benefits generated and on target. T&S INTERNATIONAL Group will also work with several foundations that stand privately or from the government, embassies and others party , to assist in our work in making a real contribution to society. Helping the less fortunate and those requiring special needs is our vision and mission in the future. Therefore we sincerely expect support from all parties.",
         "star" => "Starvation",
         "manu" => "Manutrition",
-        "edu" => "Edukasi",
+        "edu" => "Education",
         "air" => "Clean Water",
         "decent" => "Decent Place To Live",
         
@@ -82,7 +82,7 @@ trustful relationship is key to the success of T&amp;S INTERNATIONAL Group .Our 
 and professionalism are just some of the strengths that we draw on to provide services of high
 added value, as well as an impeccable quality of service. That's what distinguishes us from others ",
         
-        "judulpeople" => "T&amp;S <strong>PEOPLE</strong>",
+        "judulpeople" => "<strong>T&amp;S</strong> PEOPLE",
         "tagpeople" => "People",
         
         "direk" => "BOARD OF DIRECTOR",

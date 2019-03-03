@@ -6,8 +6,8 @@
             <div class="container">
                 <div class="col-md-12 col-md-offset-0">
                     <div class="animate-box">
-                        <h2><span style = "font-weight:100;"><?php echo $lang['tns'];?></span> <strong><?php echo $lang['fondasi'];?></strong></h2>
-                        <p class="breadcrumbs"><span><a href="index.php"><?php echo $lang['home'];?></a></span><span><a href="discover.php"><?php echo $lang['tagtemukan'];?></a></span><span><strong><?php echo $lang['tns'];?> <?php echo $lang['fondasi'];?></strong></span></p>
+                        <h2 style = "color:#007748"><span><strong><?php echo $lang['tns'];?></strong></span> <?php echo $lang['fondasi'];?></h2>
+                        <p class="breadcrumbs"><span><a href="index.php" style = "color:#007748"><?php echo $lang['home'];?></a></span><span><a href="discover.php" style = "color:#007748"><?php echo $lang['tagtemukan'];?></a></span><span style = "color:#007748"><strong><?php echo $lang['tns'];?> <?php echo $lang['fondasi'];?></strong></span></p>
                     </div>
                 </div>
             </div>

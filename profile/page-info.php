@@ -16,7 +16,7 @@ switch($_GET["id"]){
         $_SESSION["img"] = "sherinaProfile.jpg";
         $_SESSION["nama"] = "Sherina Salamon";
         $_SESSION["about"] = $lang['sheriabout'];
-        $_SESSION["experience"] = $lang['sherexp'];
+        $_SESSION["experience"] = $lang['sheriexp'];
         $_SESSION["more_exp"] = "";
         $_SESSION["title_exp2"] = $lang['sherititexp2'];
         $_SESSION["experience2"] = $lang['sheriex2'];
@@ -59,8 +59,8 @@ switch($_GET["id"]){
             <div class="container">
                 <div class="col-md-12 col-md-offset-0">
                     <div class="animate-box">
-                        <h2><span style = "font-weight:100;"><?php echo $lang['people'];?></span></h2>
-                        <p class="breadcrumbs"><span><a href="index.php"><?php echo $lang['home'];?></a></span><span><a href="about.php"><?php echo $lang['aboutus'];?></a></span><span><strong><?php echo $_SESSION["nama"];?></strong></span></p>
+                        <h2><span style = "font-weight:100;color:#007748"><?php echo $lang['people'];?></span></h2>
+                        <p class="breadcrumbs"><span><a href="index.php" style = "color:#007748"><?php echo $lang['home'];?></a></span><span><a href="about.php" style = "color:#007748"><?php echo $lang['aboutus'];?></a></span><span style = "color:#007748"><strong><?php echo $_SESSION["nama"];?></strong></span></p>
                     </div>
                 </div>
             </div>

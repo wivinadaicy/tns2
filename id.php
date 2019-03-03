@@ -87,7 +87,7 @@ memberikan Anda layanan kelas satu selama bertahun-tahun dengan keinginan Anda."
         "land" => "Tanah",
         "apart" => "Apartmen",
         "resi" => "Hunian",
-        "bisnispriv" => "Bisnis / Perusahaan - Pribadi",
+        "bisnispriv" => "PRIBADI",
         
         "tnsfondasi" => "Yayasan T&S",
         "fondasi" => "Yayasan",

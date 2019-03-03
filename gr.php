@@ -72,7 +72,7 @@ dem Wunsch bestimmt, für heute und morgen das Richtige zu tun ",
         "land" => "Land",
         "apart" => "Wohnung",
         "resi" => "Wohn",
-        "bisnispriv" => "BUSINESS / CORPORATE - Private",
+        "bisnispriv" => "PRIVATE",
         
         "tnsfondasi" => "T & S-Stiftung ",
         "fondasi" => "Stiftung",

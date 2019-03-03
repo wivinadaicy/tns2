@@ -1,7 +1,7 @@
 
-<div class="row row-pb-lg">
+<div class="row row-pb-lg" style = "margin-top:50px">
     <div class="col-md-6 animate-box">
-        <div class="video colorlib-video" style="background-image: url(assets/img/<?php echo $_SESSION["img"];?>);">
+        <div class="video colorlib-video" style="background-image: url(assets/img/<?php echo $_SESSION["img"];?>); background-size:cover; background-position: center top">
         </div>
     </div>
     <div class="col-md-6 animate-box">
@@ -18,7 +18,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-push-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/work-1.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/work-1.jpg); background-size:cover"></a>
                     </div>
                 </div>
             </div>
@@ -44,14 +44,14 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/work-2.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/work-2.jpg); background-size:cover"></a>
                     </div>
                 </div>
             </div>
             <div class="half animate-box">
                 <div class="row no-gutters">
-                    <div class="col-md-12 no-gutters">
-                        <div class="display-t desc">
+                    <div class="col-md-12 no-gutters col-lg-12">
+                        <div class="display-t desc col-lg-12">
                             <div class="display-tc">
                                 <h2><a href="#"><?php echo $_SESSION["title_exp2"];?></a></h2>
                                 <p><?php echo $_SESSION["experience2"];?></p>
@@ -69,7 +69,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-push-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/work-3.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/work-3.jpg); background-size:cover"></a>
                     </div>
                 </div>
             </div>

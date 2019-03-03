@@ -1,8 +1,8 @@
-<div class="row">
+<div class="row" style = "margin-top:50px">
     <div class="col-md-6 text-center animate-box" onclick = "location.href='property.php'" style = "cursor:pointer">
         <div class="services">
             <span class="icon">
-                <i class="icon-browser"></i>
+                <i class="icon-earth" style = "color:#007748"></i>
             </span>
             <div class="desc">
                 <h3>T&amp;S PROPERTY</h3>
@@ -13,7 +13,7 @@
     <div class="col-md-6 text-center animate-box" onclick = "location.href='foundation.php'" style = "cursor:pointer">
         <div class="services">
             <span class="icon">
-                <i class="icon-download"></i>
+                <i class="icon-man-woman" style = "color:#007748"></i>
             </span>
             <div class="desc">
                 <h3>T&amp;S FOUNDATION</h3>
