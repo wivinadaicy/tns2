@@ -5,5 +5,5 @@
 </div>
 <div class="row" style = "margin-bottom:50px">
     <h3 class="text-center"  data-aos="zoom-in-up"  data-aos-delay="200"><?php echo $lang['worldneed'];?></h3>
-    <p class="text-center" data-aos="zoom-in" data-aos-duration="2000"><?php echo $lang['cv'];?> <a href="mailto:tnsgruppe@outlook.com">tnsgruppe@outlook.com</a></p>
+    <p class="text-center" data-aos="zoom-in" data-aos-duration="2000"><?php echo $lang['cv'];?> <a href="mailto:tnsgruppe@outlook.com"> tnsgruppe@outlook.com</a></p>
 </div>

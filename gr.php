@@ -11,7 +11,7 @@
         "nav2g" => "T&S Beverage & Dairy ",
         "nav3" => "Was unterscheidet uns?",
         "nav4" => "Über uns",
-        "nav5" => "Career",
+        "nav5" => "karriere",
         "nav6" => " Contact",
         "judulbesar" => "T&S INTERNATIONAL GROUP",
         "tagjudulbesar" => "Die T & S INTERNATIONAL-GRUPPE und eine ihrer Tochtergesellschaften, T & S Property, die
@@ -506,10 +506,10 @@ Electronic Services are not bound by this Privacy Policy and that we are not res
 content or their principles regarding the handling of personal data. We therefore recommend
 consulting and checking the individual privacy policies or terms of use of third-party Electronic
 Services. </p>",
-        "karirdes" => "At T&amp;S INTERNATIONAL GROUP, we believe that people are the key to our long-term success and that talent is in everyone. That’s why we empower our employees with the tools, guidance and opportunities they need to advance and succeed in work and life. Giving you the support you need to be your best and fulfill your ambitions is what helps us become the forefront in property business, thus becoming the first choice for consumers. After all, our success is linked to yours. Whatever path you envision, T&amp;S INTERNATIONAL GROUP is a great place to build a rewarding, successful career .",
+        "karirdes" => "In der T & S INTERNATIONAL Group glauben wir, dass Menschen der Schlüssel zu unserem langfristigen Erfolg sind und dass Talent in allen Menschen steckt. Deshalb befähigen wir unsere Mitarbeiter mit den Tools, Anleitungen und Möglichkeiten, die sie benötigen, um Arbeit und Leben voranzubringen. Ihnen die Unterstützung zu geben, die Sie benötigen, um Ihr Bestes zu geben und Ihre persönlichen Ambitionen zu erfüllen, hilft Ihnen, sich als Vorreiter in der Immobilienbranche zu etablieren, indem Sie zum überlegenen Unternehmen werden, professionell und profitabel sein und somit die erste Wahl für Verbraucher sein. Schließlich hängt unser Erfolg mit Ihrem zusammen. Welchen Weg auch immer Sie sich vorstellen, die T & S INTERNATIONAL Group ist ein großartiger Ort, um eine lohnende, erfolgreiche Karriere aufzubauen.",
         
-        "worldneed" =>"The world needs us, we need you",
-        "cv" => "Send your CV through",
+        "worldneed" =>"Die Welt braucht uns und wir brauchen dich!",
+        "cv" => "Senden Sie Ihren Lebenslauf über",
         "judulkarir" => "CAREER WITH",
         "karir" => "Career"
         
