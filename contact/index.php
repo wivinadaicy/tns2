@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-12 animate-box">
         <h2><?php $lang['judulform'];?> </h2>
-        <form method="post" name="pesansubmit" id="pesansubmit" onsubmit="openmodal()">
+        <form method="post" name="pesansubmit" id="pesansubmit" onsubmit="konfirmasi()">
             <div class="row form-group">
                 <div class="col-md-2">
                     <label for="fname"><?php echo $lang['panggilan'];?></label> 
@@ -57,8 +57,21 @@
     </div>
 </div>
 
+<script>
+    function konfirmasi(){
+        var x= confirm("<?php echo $lang['konfirmasi'];?>");
+        if(x==true){
+            alert("<?php echo $lang['sent'];?>");
+            <?php header('location:index.php');?>
+        }else{
+            alert("<?php echo $lang['dont'];?>");
+            event.preventDefault();
+        }
+    }
+</script>
 
-<div class="modal fade" id="mediumModals" tabindex="-1" role="dialog" aria-labelledby="mediumModalLabel" aria-hidden="true">
+
+<!--<div class="modal fade" id="mediumModals" tabindex="-1" role="dialog" aria-labelledby="mediumModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -75,28 +88,15 @@
             </form>
         </div>
     </div>
-</div>
+</div>-->
 
-<script>
-    function openmodal(){
-    $(document).ready(function() {
-                $('#mediumModals').modal("show");
-            });
-  }
-</script>
-
-<script>
-    function tolongsubmit(){
-        document.getElementById("pesansubmit").submit();
-    }
-</script>
 
 
 <?php
 
 
 
-if(isset($_POST['kirimkan'])){
+if(isset($_POST['kirim'])){
         $servername = "localhost";
         $username = "root";
         $password = "";

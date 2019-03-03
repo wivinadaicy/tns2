@@ -452,9 +452,11 @@ Services. </p>",
         "kirimkah" => "Send Message",
         "konfir" => "By clicking send, we will send your message to T&S International GROUP",
         "submit" => "Send",
-        "cancel" => "Cancel"
+        "cancel" => "Cancel",
         
-        
+        "konfirmasi" =>"Are you sure to send the message?",
+        "sent" => "Your message has been sent",
+        "dont" => "Cancelled"
         
         
     );
