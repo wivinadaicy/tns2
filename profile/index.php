@@ -2,12 +2,12 @@
 <div class="row row-pb-lg" style = "margin-top:50px">
     <div class="col-md-6 animate-box">
         <div class="col-lg-12">
-            <img src = "assets/img/<?php echo $_SESSION["img"];?>" style = "width:100%">
+            <img src = "assets/img/<?php echo $_SESSION["img"];?>" style = "width:100%"  data-aos="zoom-out-right">
         </div>
     </div>
     <div class="col-md-6 animate-box">
-        <h2><?php echo $_SESSION["nama"];?></h2>
-        <p style ="text-align: justify; text-align-last: left;"><?php echo $_SESSION["about"];?></p>
+        <h2 data-aos="zoom-out-right" data-aos-delay="200"><?php echo $_SESSION["nama"];?></h2>
+        <p style ="text-align: justify; text-align-last: left;"  data-aos="zoom-in" data-aos-delay="300"><?php echo $_SESSION["about"];?></p>
     </div>
 </div>
 <?php if($_SESSION["experience"] != ""){ ?>
@@ -28,8 +28,8 @@
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
                             <div class="display-tc" style = "font-size:15px">
-                                <h2><a href="#"><?php echo $lang['exp'];?></a></h2>
-                                <p><?php echo $_SESSION["experience"];?></p>
+                                <h2 data-aos="zoom-in"><a href="#"><?php echo $lang['exp'];?></a></h2>
+                                <p  data-aos="zoom-out"><?php echo $_SESSION["experience"];?></p>
                                 
                                 <?php if($_SESSION["more_exp"] != ""){ ?><button type="button" class="btn btn-danger mb-1" data-toggle="modal" data-target="#mediumModal"><?php echo $lang['expm'];?></button> <?php } ?>
                             </div>
@@ -54,8 +54,8 @@
                     <div class="col-md-12 no-gutters col-lg-12">
                         <div class="display-t desc col-lg-12">
                             <div class="display-tc">
-                                <h2><a href="#"><?php echo $_SESSION["title_exp2"];?></a></h2>
-                                <p><?php echo $_SESSION["experience2"];?></p>
+                                <h2  data-aos="zoom-in"><a href="#"><?php echo $_SESSION["title_exp2"];?></a></h2>
+                                <p data-aos="zoom-out"><?php echo $_SESSION["experience2"];?></p>
                                 <?php if($_SESSION["more_exp2"] != ""){ ?><button type="button" class="btn btn-danger mb-1" data-toggle="modal" data-target="#mediumModal2"><?php echo $lang['expm'];?></button> <?php } ?>
                             </div>
                         </div>
@@ -79,8 +79,8 @@
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
                             <div class="display-tc" style = "font-size:15px">
-                                <h2><a href="#">Speaker</a></h2>
-                                <p><?php echo $_SESSION["speaker"];?></p>
+                                <h2  data-aos="zoom-in"><a href="#">Speaker</a></h2>
+                                <p  data-aos="zoom-out"><?php echo $_SESSION["speaker"];?></p>
                                 
                                 <?php if($_SESSION["more_speaker"] != ""){ ?><button type="button" class="btn btn-danger mb-1" data-toggle="modal" data-target="#mediumModal3"><?php echo $lang['expm'];?></button> <?php } ?>
                             </div>
@@ -106,8 +106,8 @@
                     <div class="col-md-12 no-gutters">
                         <div class="display-t desc col-lg-12">
                             <div class="display-tc">
-                                <h2><a href="#"><?php echo $lang['softdev'];?></a></h2>
-                                <p><?php echo $_SESSION["software"];?></p>
+                                <h2  data-aos="zoom-ib"><a href="#"><?php echo $lang['softdev'];?></a></h2>
+                                <p  data-aos="zoom-out"><?php echo $_SESSION["software"];?></p>
                                 <?php if($_SESSION["more_software"] != ""){ ?><button type="button" class="btn btn-danger mb-1" data-toggle="modal" data-target="#mediumModal4"><?php echo $lang['expm'];?></button> <?php } ?>
                             </div>
                         </div>
@@ -131,8 +131,8 @@
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
                             <div class="display-tc" style = "font-size:15px">
-                                <h2><a href="#"><?php echo $lang['writb'];?></a></h2>
-                                <p><?php echo $_SESSION["books"];?></p>
+                                <h2  data-aos="zoom-in"><a href="#"><?php echo $lang['writb'];?></a></h2>
+                                <p  data-aos="zoom-out"><?php echo $_SESSION["books"];?></p>
                                 
                                 <?php if($_SESSION["more_books"] != ""){ ?><button type="button" class="btn btn-danger mb-1" data-toggle="modal" data-target="#mediumModal5"><?php echo $lang['expm'];?></button> <?php } ?>
                             </div>

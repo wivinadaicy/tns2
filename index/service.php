@@ -3,7 +3,7 @@
 <div class="row" style = "text-align:justify">
     <div class = "col-md-1"></div>
     <div class="col-md-2 text-center animate-box">
-        <div class="services">
+        <div class="services"  data-aos="fade-up">
             <span class="icon">
                 <i style = "color:#007348" class="icon-checkmark2"></i>
             </span>
@@ -14,7 +14,7 @@
         </div>
     </div>
     <div class="col-md-2 text-center animate-box">
-        <div class="services">
+        <div class="services"  data-aos="fade-up" data-aos-delay="200">
             <span class="icon">
                 <i style = "color:#007348" class="icon-stats-dots"></i>
             </span>
@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="col-md-2 text-center animate-box">
-        <div class="services">
+        <div class="services"   data-aos="fade-up" data-aos-delay="400">
             <span class="icon">
                 <i style = "color:#007348" class="icon-stack"></i>
             </span>
@@ -36,7 +36,7 @@
         </div>
     </div>
     <div class="col-md-2 text-center animate-box">
-        <div class="services">
+        <div class="services"   data-aos="fade-up" data-aos-delay="600">
             <span class="icon">
                 <i style = "color:#007348" class="icon-lock2"></i>
             </span>
@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="col-md-2 text-center animate-box">
-        <div class="services">
+        <div class="services"   data-aos="fade-up" data-aos-delay="800">
             <span class="icon">
                 <i style = "color:#007348" class="icon-user-check"></i>
             </span>

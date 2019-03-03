@@ -7,7 +7,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-push-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/excellence.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/excellence.jpg);"  data-aos="fade-left"></a>
                     </div>
                 </div>
             </div>
@@ -15,7 +15,7 @@
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
-                            <div class="display-tc" style = "font-size:15px">
+                            <div class="display-tc" style = "font-size:15px"  data-aos="zoom-in">
                                 <h2><a href="#"><?php echo $lang['judulexcellence'];?></a></h2>
                                 <p><?php echo $lang["excellence"];?></p>
                                 
@@ -32,7 +32,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/enthusiam.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/enthusiam.jpg);"  data-aos="fade-right"></a>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                 <div class="row no-gutters">
                     <div class="col-md-12 no-gutters">
                         <div class="display-t desc">
-                            <div class="display-tc">
+                            <div class="display-tc"  data-aos="zoom-in">
                                 <h2><a href="#"><?php echo $lang["judulenthusiasm"];?></a></h2>
                                 <p><?php echo $lang["enthusiasm"];?></p>
                                 
@@ -56,7 +56,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-push-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/teamwork.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/teamwork.jpg);" data-aos="fade-left"></a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
-                            <div class="display-tc" style = "font-size:15px">
+                            <div class="display-tc" style = "font-size:15px"  data-aos="zoom-in">
                                 <h2><a href="#"><?php echo $lang["judulteamwork"];?></a></h2>
                                 <p><?php echo $lang["teamwork"];?></p>
                                 
@@ -82,7 +82,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/integrity.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/integrity.jpg);" data-aos="fade-right"></a>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                 <div class="row no-gutters">
                     <div class="col-md-12 no-gutters">
                         <div class="display-t desc col-lg-12">
-                            <div class="display-tc">
+                            <div class="display-tc"  data-aos="zoom-in">
                                 <h2><a href="#"><?php echo $lang["judulintegrity"];?></a></h2>
                                 <p><?php echo $lang["integrity"];?></p>
                             </div>
@@ -106,7 +106,7 @@
             <div class="half animate-box">
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-push-12 no-gutters">
-                        <a href="#" class="work-img" style="background-image: url(assets/img/customersatisfaction.jpg);"></a>
+                        <a href="#" class="work-img" style="background-image: url(assets/img/customersatisfaction.jpg);"  data-aos="fade-left"></a>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                 <div class="row no-gutters">
                     <div class="col-md-12 col-md-pull-12 no-gutters">
                         <div class="display-t desc col-lg-12">
-                            <div class="display-tc" style = "font-size:15px">
+                            <div class="display-tc" style = "font-size:15px"  data-aos="zoom-in">
                                 
                                 <h2><a href="#"><?php echo $lang['judulsatisfaction'];?></a></h2>
                                 <p><?php echo $lang["satisfaction"];?></p>

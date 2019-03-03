@@ -5,8 +5,8 @@
             <div class="container">
                 <div class="col-md-12 col-md-offset-0">
                     <div class="animate-box">
-                        <h2 style = "color:#007348"><?php echo $lang['judulbesar'];?></h2>
-                        <p style ="text-align: justify; text-align-last:center; font-size:20px; color:#008755"><?php echo $lang['tagjudulbesar'];?></p>
+                        <h2 style = "color:#007348"  data-aos="fade-up" data-aos-delay="300"><?php echo $lang['judulbesar'];?></h2>
+                        <p style ="text-align: justify; text-align-last:center; font-size:20px; color:#008755"   data-aos="fade-down" data-aos-delay="300"><?php echo $lang['tagjudulbesar'];?></p>
                     </div>
                 </div>
             </div>
